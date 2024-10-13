@@ -8982,3 +8982,452 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.13-21.16.00:195][225]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/Spells/Base/NS_Base_Spell.NS_Base_Spell
 [2024.10.13-21.16.25:668][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2024.10.13-21.16.25:670][466]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_Maps/ThirdPersonMap' took 0.016
+[2024.10.13-21.21.17:424][907]LogViewport: Scene viewport resized to 771x348, mode Windowed.
+[2024.10.13-21.21.17:429][907]LogViewport: Scene viewport resized to 367x183, mode Windowed.
+[2024.10.13-21.21.17:457][907]LogViewport: Scene viewport resized to 243x110, mode Windowed.
+[2024.10.13-21.21.17:854][907]LogViewport: Scene viewport resized to 1163x582, mode Windowed.
+[2024.10.13-21.21.17:881][907]LogViewport: Scene viewport resized to 367x184, mode Windowed.
+[2024.10.13-21.26.26:611][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.13-21.26.26:614][245]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_Maps/ThirdPersonMap' took 0.017
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.BP_WeaponParent_C' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.BP_WeaponParent_C:SetWeaponInfo' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.SKEL_BP_WeaponParent_C' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.SKEL_BP_WeaponParent_C:ReceiveBeginPlay' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.SKEL_BP_WeaponParent_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.SKEL_BP_WeaponParent_C:ReceiveTick' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.SKEL_BP_WeaponParent_C:SetWeaponInfo' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.SKEL_BP_WeaponParent_C:UserConstructionScript' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.BP_WeaponParent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.BP_WeaponParent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.BP_WeaponParent:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:692][401]LogMetaData: Removing '/Game/Combat/Weapons/BP_WeaponParent.BP_WeaponParent:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Combat/Weapons/Melee/BPs/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.31:696][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.33.31:725][401]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BP_WeaponParent
+[2024.10.13-21.33.31:726][401]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParentD7579CAD4965B424D534DCB6BB6BCE56.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BP_WeaponParent.uasset'
+[2024.10.13-21.33.31:737][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 24.0 sec)
+[2024.10.13-21.33.31:758][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.13-21.33.31:772][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.13-21.33.31:787][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.13-21.33.31:797][401]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.13-21.33.31:797][401]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BP_WeaponParent.BP_WeaponParent
+[2024.10.13-21.33.35:329][748]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.13-21.33.35:338][748]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.13-21.33.35:348][749]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.13-21.33.36:832][927]LogContentBrowser: Attempting asset rename: NewFolder -> BPs
+[2024.10.13-21.33.36:832][927]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent_C' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent_C:SetWeaponInfo' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.SKEL_BP_WeaponParent_C' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.SKEL_BP_WeaponParent_C:ReceiveBeginPlay' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.SKEL_BP_WeaponParent_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.SKEL_BP_WeaponParent_C:ReceiveTick' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.SKEL_BP_WeaponParent_C:SetWeaponInfo' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.SKEL_BP_WeaponParent_C:UserConstructionScript' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:939][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:940][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:940][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:940][151]LogMetaData: Removing '/Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Combat/Weapons/BP_WeaponParent.PackageMetaData'
+[2024.10.13-21.33.38:944][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.33.38:973][151]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.13-21.33.38:973][151]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent7B020BFC4CC1BB166B9F4E808A3D7491.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.13-21.33.38:982][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 24.1 sec)
+[2024.10.13-21.33.38:999][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.13-21.33.39:013][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.13-21.33.39:028][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.13-21.33.39:040][151]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.13-21.33.39:040][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.13-21.34.04:287][896]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.13-21.34.04:309][896]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.13-21.34.04:318][897]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.13-21.34.05:782][ 73]LogContentBrowser: Attempting asset rename: NewFolder -> Enums
+[2024.10.13-21.34.05:782][ 73]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.13-21.34.17:287][321]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.10.13-21.34.17:293][321]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.10.13-21.34.17:309][323]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2024.10.13-21.34.22:026][889]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_Melee_Weapon_Names
+[2024.10.13-21.34.22:027][889]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.10.13-21.34.22:438][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.34.22:467][937]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Enums/Enum_Melee_Weapon_Names
+[2024.10.13-21.34.22:467][937]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Enum_Melee_Weapon_NamesDF77DC2740E8983B38F90BBDA878DA98.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Enums/Enum_Melee_Weapon_Names.uasset'
+[2024.10.13-21.34.22:472][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 24.1 sec)
+[2024.10.13-21.34.22:473][937]AssetCheck: New page: Asset Save: Enum_Melee_Weapon_Names
+[2024.10.13-21.34.22:473][937]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Combat/Weapons/Melee/Enums/Enum_Melee_Weapon_Names.Enum_Melee_Weapon_Names
+[2024.10.13-21.34.27:276][449]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.10.13-21.34.27:282][449]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.10.13-21.34.27:299][451]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2024.10.13-21.34.32:217][ 41]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_Ranged_Weapon_Names
+[2024.10.13-21.34.32:217][ 41]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.10.13-21.34.32:580][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.34.32:600][ 83]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Enums/Enum_Ranged_Weapon_Names
+[2024.10.13-21.34.32:600][ 83]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Enum_Ranged_Weapon_Names2B9742BE4668D3990F3E3ABFC42290FF.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Enums/Enum_Ranged_Weapon_Names.uasset'
+[2024.10.13-21.34.32:606][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 24.1 sec)
+[2024.10.13-21.34.32:606][ 83]AssetCheck: New page: Asset Save: Enum_Ranged_Weapon_Names
+[2024.10.13-21.34.32:606][ 83]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Combat/Weapons/Ranged/Enums/Enum_Ranged_Weapon_Names.Enum_Ranged_Weapon_Names
+[2024.10.13-21.34.36:716][505]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.10.13-21.34.36:722][505]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.10.13-21.34.36:739][507]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.10.13-21.34.43:155][277]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Struct_Ranged_Weapons
+[2024.10.13-21.34.43:196][277]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.10.13-21.34.43:539][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.34.43:562][317]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons
+[2024.10.13-21.34.43:562][317]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Ranged_Weapons8ACB12924ECDA3E073201BBA06035B79.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.uasset'
+[2024.10.13-21.34.43:568][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 24.2 sec)
+[2024.10.13-21.34.43:568][317]AssetCheck: New page: Asset Save: Struct_Ranged_Weapons
+[2024.10.13-21.34.43:568][317]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.Struct_Ranged_Weapons
+[2024.10.13-21.34.57:372][898]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Weapons/Melee/Structs_Tables/S_MeleeWeapon.S_MeleeWeapon
+[2024.10.13-21.35.03:512][617]LogContentBrowser: Attempting asset rename: S_MeleeWeapon -> Struct_MeleeWeapon
+[2024.10.13-21.35.03:532][617]LogMetaData: Removing '/Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapon.Struct_MeleeWeapon' ref from Metadata '/Game/Combat/Weapons/Melee/Structs_Tables/S_MeleeWeapon.PackageMetaData'
+[2024.10.13-21.35.03:537][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.35.03:565][617]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons
+[2024.10.13-21.35.03:565][617]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/DT_MeleeWeapons9B5C391741D77BEE7BCA1F83F9553856.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.uasset'
+[2024.10.13-21.35.03:569][617]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Components/BPC_LightAttacks
+[2024.10.13-21.35.03:571][617]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_LightAttacks341A58344BDC932557E2418AB34E71A6.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Components/BPC_LightAttacks.uasset'
+[2024.10.13-21.35.03:575][617]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.13-21.35.03:575][617]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParentA19AAE9E43CB9B8B4445BD805E64552D.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.13-21.35.03:576][617]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapon
+[2024.10.13-21.35.03:576][617]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_MeleeWeapon11CD979D492A4264401582A79B1728D9.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapon.uasset'
+[2024.10.13-21.35.03:584][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 24.2 sec)
+[2024.10.13-21.35.03:604][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.13-21.35.03:621][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.13-21.35.03:631][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.13-21.35.03:634][617]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.13-21.35.03:634][617]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons
+[2024.10.13-21.35.03:634][617]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Melee/Components/BPC_LightAttacks.BPC_LightAttacks
+[2024.10.13-21.35.03:634][617]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.13-21.35.03:634][617]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapon.Struct_MeleeWeapon
+[2024.10.13-21.35.05:069][776]LogContentBrowser: Attempting asset rename: Struct_MeleeWeapon -> Struct_MeleeWeapons
+[2024.10.13-21.35.05:090][776]LogMetaData: Removing '/Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons.Struct_MeleeWeapons' ref from Metadata '/Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapon.PackageMetaData'
+[2024.10.13-21.35.05:096][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.35.05:125][776]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons
+[2024.10.13-21.35.05:125][776]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/DT_MeleeWeaponsF337F4BD4BABA4C6F6BA23B2E1B4CCDF.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.uasset'
+[2024.10.13-21.35.05:130][776]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Components/BPC_LightAttacks
+[2024.10.13-21.35.05:130][776]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_LightAttacks2C32882D4BB0D213CA24469CE54D748B.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Components/BPC_LightAttacks.uasset'
+[2024.10.13-21.35.05:135][776]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.13-21.35.05:135][776]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent14ABA30B4E33F0A3033970AAC1DDBE12.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.13-21.35.05:136][776]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons
+[2024.10.13-21.35.05:136][776]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_MeleeWeapons7CF415BD4DBC11E17B3086B84C3676EB.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons.uasset'
+[2024.10.13-21.35.05:144][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 24.3 sec)
+[2024.10.13-21.35.05:156][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.13-21.35.05:172][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.13-21.35.05:187][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.13-21.35.05:189][776]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.13-21.35.05:189][776]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons
+[2024.10.13-21.35.05:189][776]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Melee/Components/BPC_LightAttacks.BPC_LightAttacks
+[2024.10.13-21.35.05:189][776]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.13-21.35.05:189][776]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons.Struct_MeleeWeapons
+[2024.10.13-21.35.28:509][247]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.13-21.35.28:528][247]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.13-21.35.28:533][247]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.13-21.35.28:551][249]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.13-21.35.33:915][887]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_Ranged_Attack
+[2024.10.13-21.35.33:921][887]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.13-21.35.34:333][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.13-21.35.34:333][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.13-21.35.34:333][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.13-21.35.34:689][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.13-21.35.34:693][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.35.34:718][967]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.13-21.35.34:718][967]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackD8C73AA944DD594B8334DFB037E0A389.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.13-21.35.34:726][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 24.3 sec)
+[2024.10.13-21.35.34:726][967]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.13-21.35.34:726][967]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.13-21.35.38:610][431]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.13-21.35.38:628][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.13-21.35.39:304][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.13-21.35.39:307][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.35.39:334][483]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.13-21.35.39:335][483]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackD5674C0742FBFC46871D849190985A1E.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.13-21.35.39:340][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 24.3 sec)
+[2024.10.13-21.35.39:341][483]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.13-21.35.39:341][483]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.13-21.35.44:032][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BPs/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.13-21.35.44:032][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.13-21.35.44:032][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.13-21.35.51:616][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.13-21.35.51:620][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.35.51:816][860]LogSavePackage: Moving output files for package: /Game/Player/BPs/BP_ThirdPersonCharacter
+[2024.10.13-21.35.51:816][860]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_ThirdPersonCharacter7DA5032F4115E03AF23426B8864D0C2D.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset'
+[2024.10.13-21.35.51:824][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 24.5 sec)
+[2024.10.13-21.35.51:825][860]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.13-21.35.51:825][860]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Player/BPs/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C_4
+[2024.10.13-21.35.51:825][860]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BPs/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.13-21.35.56:745][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.13-21.35.56:748][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.35.56:844][426]LogSavePackage: Moving output files for package: /Game/Player/BPs/BP_ThirdPersonCharacter
+[2024.10.13-21.35.56:844][426]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_ThirdPersonCharacterCA736C9B46F8FCF07B441A86C31873E5.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset'
+[2024.10.13-21.35.56:851][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 24.6 sec)
+[2024.10.13-21.35.56:853][426]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.13-21.35.56:853][426]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Player/BPs/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C_4
+[2024.10.13-21.35.56:853][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BPs/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.13-21.35.57:116][456]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.10.13-21.35.57:142][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.10.13-21.35.57:143][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.10.13-21.35.57:148][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_35:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.10.13-21.35.57:168][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.13-21.36.15:823][480]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.13-21.36.15:824][480]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.13-21.36.15:824][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.13-21.36.17:760][693]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.13-21.36.17:786][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.13-21.36.28:440][939]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.13-21.36.28:456][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.13-21.36.55:195][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.13-21.36.55:197][365]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_Maps/ThirdPersonMap' took 0.012
+[2024.10.13-21.38.39:589][821]LogViewport: Scene viewport resized to 771x348, mode Windowed.
+[2024.10.13-21.38.39:595][821]LogViewport: Scene viewport resized to 367x183, mode Windowed.
+[2024.10.13-21.38.39:775][821]LogViewport: Scene viewport resized to 243x110, mode Windowed.
+[2024.10.13-21.38.39:961][821]LogViewport: Scene viewport resized to 1163x582, mode Windowed.
+[2024.10.13-21.38.39:991][821]LogViewport: Scene viewport resized to 367x184, mode Windowed.
+[2024.10.13-21.38.44:066][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Components/BPC_AttackHandler.BPC_AttackHandler
+[2024.10.13-21.38.44:066][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.13-21.38.44:066][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.13-21.38.50:234][994]BlueprintLog: New page: Compile BPC_AttackHandler
+[2024.10.13-21.38.50:268][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.13-21.38.56:386][596]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.10.13-21.38.56:392][596]LogContentBrowser: Creating deferred item: NewInterface
+[2024.10.13-21.38.56:412][598]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.10.13-21.39.00:084][ 34]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Has_Weapon
+[2024.10.13-21.39.00:088][ 34]LogContentBrowser: End creating deferred item NewInterface
+[2024.10.13-21.39.00:424][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.39.00:446][ 73]LogSavePackage: Moving output files for package: /Game/Combat/Interfaces/BPI_Has_Weapon
+[2024.10.13-21.39.00:446][ 73]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPI_Has_Weapon03C6122E4C8CDEB5F4B64FBACE1FC802.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Interfaces/BPI_Has_Weapon.uasset'
+[2024.10.13-21.39.00:452][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 24.7 sec)
+[2024.10.13-21.39.00:453][ 73]AssetCheck: New page: Asset Save: BPI_Has_Weapon
+[2024.10.13-21.39.00:453][ 73]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Interfaces/BPI_Has_Weapon.BPI_Has_Weapon
+[2024.10.13-21.39.01:321][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Interfaces/BPI_Has_Weapon.BPI_Has_Weapon
+[2024.10.13-21.39.01:321][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.13-21.39.01:321][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.13-21.39.06:068][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.13-21.39.06:072][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.39.06:097][730]LogSavePackage: Moving output files for package: /Game/Combat/Components/BPC_AttackHandler
+[2024.10.13-21.39.06:097][730]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_AttackHandlerA7EFA48F487E1E5F280229972455CC18.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Components/BPC_AttackHandler.uasset'
+[2024.10.13-21.39.06:099][730]LogSavePackage: Moving output files for package: /Game/Combat/Interfaces/BPI_Has_Weapon
+[2024.10.13-21.39.06:099][730]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPI_Has_Weapon83F9BAFE468A39501134C9847E44A8E7.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Interfaces/BPI_Has_Weapon.uasset'
+[2024.10.13-21.39.06:106][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 24.7 sec)
+[2024.10.13-21.39.06:107][730]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.13-21.39.06:107][730]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Components/BPC_AttackHandler.BPC_AttackHandler
+[2024.10.13-21.39.06:107][730]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Interfaces/BPI_Has_Weapon.BPI_Has_Weapon
+[2024.10.13-21.39.09:446][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.13-21.39.09:449][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.39.09:472][129]LogSavePackage: Moving output files for package: /Game/Combat/Interfaces/BPI_Has_Weapon
+[2024.10.13-21.39.09:472][129]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPI_Has_WeaponD78250514BEFE599EB752790B8E25F2C.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Interfaces/BPI_Has_Weapon.uasset'
+[2024.10.13-21.39.09:478][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 24.7 sec)
+[2024.10.13-21.39.09:479][129]AssetCheck: New page: Asset Save: BPI_Has_Weapon
+[2024.10.13-21.39.09:479][129]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Interfaces/BPI_Has_Weapon.BPI_Has_Weapon
+[2024.10.13-21.39.14:498][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.13-21.39.14:502][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.39.14:523][727]LogSavePackage: Moving output files for package: /Game/Combat/Interfaces/BPI_Has_Weapon
+[2024.10.13-21.39.14:523][727]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPI_Has_Weapon39D54B0D4854BF1EEE61F3B5E8D4F38F.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Interfaces/BPI_Has_Weapon.uasset'
+[2024.10.13-21.39.14:529][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 27 ms (total: 24.8 sec)
+[2024.10.13-21.39.14:529][727]AssetCheck: New page: Asset Save: BPI_Has_Weapon
+[2024.10.13-21.39.14:529][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Interfaces/BPI_Has_Weapon.BPI_Has_Weapon
+[2024.10.13-21.39.15:602][856]BlueprintLog: New page: Compile BPI_Has_Weapon
+[2024.10.13-21.39.15:617][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.13-21.39.26:630][965]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.10.13-21.39.26:637][965]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.10.13-21.39.26:646][966]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.10.13-21.39.31:274][503]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Struct_Weapon_Info
+[2024.10.13-21.39.31:312][503]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.10.13-21.39.31:629][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.39.31:653][539]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Struct_Weapon_Info
+[2024.10.13-21.39.31:653][539]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Weapon_InfoA5AEDA634CCDE6E57D608C8691356C42.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Struct_Weapon_Info.uasset'
+[2024.10.13-21.39.31:659][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 24.8 sec)
+[2024.10.13-21.39.31:659][539]AssetCheck: New page: Asset Save: Struct_Weapon_Info
+[2024.10.13-21.39.31:659][539]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Struct_Weapon_Info.Struct_Weapon_Info
+[2024.10.13-21.39.33:524][722]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.13-21.39.33:534][722]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.13-21.39.33:544][723]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.13-21.39.35:836][994]LogContentBrowser: Attempting asset rename: NewFolder -> Struct_Tables
+[2024.10.13-21.39.35:836][994]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.13-21.39.39:100][323]LogMetaData: Removing '/Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.Struct_Weapon_Info' ref from Metadata '/Game/Combat/Weapons/Struct_Weapon_Info.PackageMetaData'
+[2024.10.13-21.39.39:100][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.39.39:124][323]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info
+[2024.10.13-21.39.39:124][323]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Weapon_InfoF08AD6F4425369FA831489B05B2C60B9.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.uasset'
+[2024.10.13-21.39.39:130][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 24.8 sec)
+[2024.10.13-21.39.39:144][323]LogWorldPartition: Actor /Game/Levels_Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_107C61B295B0692502_1316578050 is unreachable without properly detaching object /Game/__ExternalActors__/Levels_Maps/ThirdPersonMap/0/W4/FG71MZFPCAOHZ0EURO8KHR.PackageMetaData in its package
+[2024.10.13-21.39.39:144][323]LogWorldPartition: Actor /Game/Levels_Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_107C61B295B0692502_1258909049 is unreachable without properly detaching object /Game/__ExternalActors__/Levels_Maps/ThirdPersonMap/8/A4/9X62ZYLG5PTBETH3NAX6F2.PackageMetaData in its package
+[2024.10.13-21.39.39:144][323]LogWorldPartition: Actor /Game/Levels_Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_107C61B295B0692502_1248209048 is unreachable without properly detaching object /Game/__ExternalActors__/Levels_Maps/ThirdPersonMap/D/Z9/WV3LFKO8C07UFX95U09XVO.PackageMetaData in its package
+[2024.10.13-21.39.39:144][323]LogWorldPartition: Actor /Game/Levels_Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NiagaraActor_UAID_107C61B295B0692502_1217761047 is unreachable without properly detaching object /Game/__ExternalActors__/Levels_Maps/ThirdPersonMap/C/JC/A6EF3DHHW3HE7GZ2Y7YTUJ.PackageMetaData in its package
+[2024.10.13-21.39.39:148][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.13-21.39.39:159][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.13-21.39.39:169][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.13-21.39.39:180][323]AssetCheck: New page: Asset Save: Struct_Weapon_Info
+[2024.10.13-21.39.39:180][323]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.Struct_Weapon_Info
+[2024.10.13-21.39.39:192][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.13-21.39.44:091][791]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.Struct_Weapon_Info
+[2024.10.13-21.39.56:122][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.13-21.39.56:125][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.39.56:156][212]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info
+[2024.10.13-21.39.56:156][212]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Weapon_Info6908BFFE435C4F91A8464EAF2B2CEB9F.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.uasset'
+[2024.10.13-21.39.56:162][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 24.9 sec)
+[2024.10.13-21.39.56:163][212]AssetCheck: New page: Asset Save: Struct_Weapon_Info
+[2024.10.13-21.39.56:163][212]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.Struct_Weapon_Info
+[2024.10.13-21.40.02:120][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.13-21.40.07:533][478]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.13-21.40.07:541][478]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.13-21.40.07:549][479]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.13-21.40.08:521][596]LogContentBrowser: Attempting asset rename: NewFolder -> Enums
+[2024.10.13-21.40.08:521][596]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.13-21.40.14:463][163]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.10.13-21.40.14:469][163]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.10.13-21.40.14:487][165]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2024.10.13-21.40.17:543][532]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Enum_Weapon_Names
+[2024.10.13-21.40.17:545][532]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.10.13-21.40.17:806][563]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Combat/Weapons/Enums/Enum_Weapon_Names.Enum_Weapon_Names
+[2024.10.13-21.40.18:059][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.13-21.40.18:063][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.40.18:079][587]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Enums/Enum_Weapon_Names
+[2024.10.13-21.40.18:079][587]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Enum_Weapon_NamesFE29B57A47CE20ABC11FE1BC1D3B8844.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Enums/Enum_Weapon_Names.uasset'
+[2024.10.13-21.40.18:084][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 21 ms (total: 24.9 sec)
+[2024.10.13-21.40.18:085][587]AssetCheck: New page: Asset Save: Enum_Weapon_Names
+[2024.10.13-21.40.18:085][587]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Combat/Weapons/Enums/Enum_Weapon_Names.Enum_Weapon_Names
+[2024.10.13-21.40.28:134][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.13-21.40.28:138][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.40.28:161][784]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Enums/Enum_Weapon_Names
+[2024.10.13-21.40.28:161][784]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Enum_Weapon_Names92BEEDA94594CBE7AA81358AF61570B2.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Enums/Enum_Weapon_Names.uasset'
+[2024.10.13-21.40.28:167][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 24.9 sec)
+[2024.10.13-21.40.28:168][784]AssetCheck: New page: Asset Save: Enum_Weapon_Names
+[2024.10.13-21.40.28:168][784]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Combat/Weapons/Enums/Enum_Weapon_Names.Enum_Weapon_Names
+[2024.10.13-21.40.33:614][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.13-21.40.33:618][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.40.33:637][398]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info
+[2024.10.13-21.40.33:638][398]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Weapon_InfoCA66317C4DF2003E22A416B27E5C884F.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.uasset'
+[2024.10.13-21.40.33:642][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 24 ms (total: 24.9 sec)
+[2024.10.13-21.40.33:644][398]AssetCheck: New page: Asset Save: Struct_Weapon_Info
+[2024.10.13-21.40.33:644][398]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.Struct_Weapon_Info
+[2024.10.13-21.40.35:658][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.40.35:682][640]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info
+[2024.10.13-21.40.35:683][640]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Weapon_InfoE7DF0D6A47AB6EDCAE1EDEB788310655.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.uasset'
+[2024.10.13-21.40.35:687][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 25.0 sec)
+[2024.10.13-21.40.35:688][640]AssetCheck: New page: Asset Save: Struct_Weapon_Info
+[2024.10.13-21.40.35:688][640]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.Struct_Weapon_Info
+[2024.10.13-21.40.49:359][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.13-21.40.49:364][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.40.49:387][201]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.13-21.40.49:387][201]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent05701F2548A670585D006B89ACE34C7E.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.13-21.40.49:391][201]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Components/BPC_LightAttacks
+[2024.10.13-21.40.49:392][201]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_LightAttacks3F37D439428D7F2A36DF589B7E5AC703.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Components/BPC_LightAttacks.uasset'
+[2024.10.13-21.40.49:393][201]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons
+[2024.10.13-21.40.49:393][201]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/DT_MeleeWeapons9B53E57A4755FE1DA26C56A588BE821A.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.uasset'
+[2024.10.13-21.40.49:395][201]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons
+[2024.10.13-21.40.49:395][201]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_MeleeWeapons872A9F8A44212B41E54D03B39E8AB1EC.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons.uasset'
+[2024.10.13-21.40.49:400][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 25.0 sec)
+[2024.10.13-21.40.49:402][201]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.13-21.40.49:402][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.13-21.40.49:402][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Melee/Components/BPC_LightAttacks.BPC_LightAttacks
+[2024.10.13-21.40.49:402][201]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons
+[2024.10.13-21.40.49:402][201]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons.Struct_MeleeWeapons
+[2024.10.13-21.40.54:268][732]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.Struct_Ranged_Weapons
+[2024.10.13-21.40.58:346][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.13-21.40.58:350][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.40.58:374][211]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons
+[2024.10.13-21.40.58:375][211]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Ranged_Weapons95D25615475D21B12ECC1895736B313D.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.uasset'
+[2024.10.13-21.40.58:379][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 25.0 sec)
+[2024.10.13-21.40.58:380][211]AssetCheck: New page: Asset Save: Struct_Ranged_Weapons
+[2024.10.13-21.40.58:380][211]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.Struct_Ranged_Weapons
+[2024.10.13-21.41.02:119][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.13-21.41.02:124][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.41.02:152][650]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons
+[2024.10.13-21.41.02:152][650]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Ranged_WeaponsE532FBC64952DEEFF89714A91CBDE991.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.uasset'
+[2024.10.13-21.41.02:157][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 25.1 sec)
+[2024.10.13-21.41.02:159][650]AssetCheck: New page: Asset Save: Struct_Ranged_Weapons
+[2024.10.13-21.41.02:159][650]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.Struct_Ranged_Weapons
+[2024.10.13-21.41.04:749][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.13-21.41.04:753][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.41.04:782][952]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons
+[2024.10.13-21.41.04:783][952]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Ranged_Weapons79F108BB43734A9450BC4A85D08C6582.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.uasset'
+[2024.10.13-21.41.04:789][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 25.1 sec)
+[2024.10.13-21.41.04:790][952]AssetCheck: New page: Asset Save: Struct_Ranged_Weapons
+[2024.10.13-21.41.04:790][952]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.Struct_Ranged_Weapons
+[2024.10.13-21.41.06:161][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.13-21.41.06:165][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.41.06:195][112]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons
+[2024.10.13-21.41.06:195][112]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Ranged_WeaponsF4A9F3CD448295F8F572ABADCA5EE759.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.uasset'
+[2024.10.13-21.41.06:201][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 25.1 sec)
+[2024.10.13-21.41.06:203][112]AssetCheck: New page: Asset Save: Struct_Ranged_Weapons
+[2024.10.13-21.41.06:203][112]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.Struct_Ranged_Weapons
+[2024.10.13-21.41.06:867][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.41.06:893][192]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons
+[2024.10.13-21.41.06:894][192]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Ranged_Weapons85654D294797D964C28ED691BD43DF15.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.uasset'
+[2024.10.13-21.41.06:898][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 25.2 sec)
+[2024.10.13-21.41.06:899][192]AssetCheck: New page: Asset Save: Struct_Ranged_Weapons
+[2024.10.13-21.41.06:899][192]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Weapons/Ranged/Structs_Tables/Struct_Ranged_Weapons.Struct_Ranged_Weapons
+[2024.10.13-21.41.16:668][153]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.13-21.41.16:676][153]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.13-21.41.16:682][153]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.13-21.41.16:699][155]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.13-21.41.19:337][462]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_Spells
+[2024.10.13-21.41.19:342][462]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.13-21.41.19:758][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.41.19:778][509]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Ranged/Components/BPC_Spells
+[2024.10.13-21.41.19:778][509]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Spells9CFB1A644EF7449BE3F36FA4D90A8511.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Components/BPC_Spells.uasset'
+[2024.10.13-21.41.19:785][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 25.2 sec)
+[2024.10.13-21.41.19:785][509]AssetCheck: New page: Asset Save: BPC_Spells
+[2024.10.13-21.41.19:785][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Ranged/Components/BPC_Spells.BPC_Spells
+[2024.10.13-21.41.31:209][850]BlueprintLog: New page: Compile BPC_AttackHandler
+[2024.10.13-21.41.31:238][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.13-21.41.44:696][402]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons
+[2024.10.13-21.41.57:388][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.13-21.41.57:391][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.41.57:414][913]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons
+[2024.10.13-21.41.57:415][913]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/DT_MeleeWeaponsCC7BDED64542C7598DE98AB7F45E6138.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.uasset'
+[2024.10.13-21.41.57:421][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 25.2 sec)
+[2024.10.13-21.41.57:422][913]AssetCheck: New page: Asset Save: DT_MeleeWeapons
+[2024.10.13-21.41.57:422][913]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons
+[2024.10.13-21.42.08:909][235]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Weapons/Melee/Components/BPC_LightAttacks.BPC_LightAttacks
+[2024.10.13-21.42.08:909][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.13-21.42.08:910][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.13-21.42.19:878][535]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.10.13-21.42.19:878][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.13-21.42.25:282][180]BlueprintLog: New page: Compile BPC_AttackHandler
+[2024.10.13-21.42.25:303][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.13-21.42.28:854][604]BlueprintLog: New page: Compile BPC_AttackHandler
+[2024.10.13-21.42.28:874][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.13-21.42.30:132][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.13-21.42.30:136][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.13-21.42.30:164][752]LogSavePackage: Moving output files for package: /Game/Combat/Components/BPC_AttackHandler
+[2024.10.13-21.42.30:165][752]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_AttackHandler9289001B4AFA4BFD5EE5CBB9C97B932F.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Components/BPC_AttackHandler.uasset'
+[2024.10.13-21.42.30:169][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 25.2 sec)
+[2024.10.13-21.42.30:171][752]AssetCheck: New page: Asset Save: BPC_AttackHandler
+[2024.10.13-21.42.30:171][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Components/BPC_AttackHandler.BPC_AttackHandler
