@@ -1769,3 +1769,888 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.14-11.48.38:604][648]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Health/Components/BPC_Health.BPC_Health
 [2024.10.14-11.48.38:937][687]BlueprintLog: New page: Compile BPC_Health
 [2024.10.14-11.48.38:959][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-11.49.51:642][265]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_General_Info.Struct_Spell_General_Info
+[2024.10.14-11.50.02:606][542]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Ranged/Projectiles/Structs_Tables/Characteristics/Struct_Spell_AOE.Struct_Spell_AOE
+[2024.10.14-11.50.04:715][789]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.50.04:715][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.50.05:080][828]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.50.05:080][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.50.05:388][861]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.50.05:388][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.50.12:071][631]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Ranged/Projectiles/Structs_Tables/Characteristics/Struct_Spell_Burst.Struct_Spell_Burst
+[2024.10.14-11.54.46:058][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-11.54.46:059][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.54.46:059][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.54.47:764][481]LogSlate: Window 'BPC_Ranged_Attack' being destroyed
+[2024.10.14-11.54.47:770][481]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-11.54.47:770][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-11.54.47:779][481]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-11.54.47:780][481]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-11.54.47:780][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-11.54.48:800][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.14-11.55.17:591][323]LogViewport: Scene viewport resized to 674x374, mode Windowed.
+[2024.10.14-11.55.18:108][323]LogViewport: Scene viewport resized to 500x573, mode Windowed.
+[2024.10.14-11.55.47:492][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-11.55.47:493][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_Maps/Dev_Level' took 0.013
+[2024.10.14-11.55.47:494][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack] ([2] browsable assets)...
+[2024.10.14-11.55.47:494][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack]
+[2024.10.14-11.55.47:496][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto1
+[2024.10.14-11.55.47:496][732]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack_Auto1E5840FAD4863DEBC591555AD4381347D.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto1.uasset'
+[2024.10.14-11.55.47:496][732]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.10.14-11.57.05:376][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.14-11.57.05:380][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-11.57.05:431][411]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-11.57.05:432][411]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack9E5D1E5F4C7902CBDF817BB04CC185B6.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-11.57.05:438][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.45 sec)
+[2024.10.14-11.57.05:438][411]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-11.57.05:438][411]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-11.57.06:324][516]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-11.57.06:340][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.04.51:900][978]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.04.51:921][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.14-12.06.51:445][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.06.51:449][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.06.51:501][815]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.06.51:501][815]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack550DE60A41C803CB044A51B8AE0C0898.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.06.51:508][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.51 sec)
+[2024.10.14-12.06.51:509][815]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.06.51:509][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.06.52:155][884]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.06.52:175][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.06.55:026][205]LogViewport: Scene viewport resized to 674x374, mode Windowed.
+[2024.10.14-12.06.55:293][205]LogViewport: Scene viewport resized to 1017x576, mode Windowed.
+[2024.10.14-12.07.21:371][223]LogSlate: Window 'BPC_Ranged_Attack' being destroyed
+[2024.10.14-12.09.09:179][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.14-12.09.09:181][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_Maps/Dev_Level' took 0.013
+[2024.10.14-12.09.09:182][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack] ([2] browsable assets)...
+[2024.10.14-12.09.09:182][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack]
+[2024.10.14-12.09.09:186][ 99]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto2
+[2024.10.14-12.09.09:186][ 99]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack_Auto2F261C5BA43A4713CDAD6829803F9B24C.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto2.uasset'
+[2024.10.14-12.09.09:187][ 99]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.10.14-12.11.47:001][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.11.47:008][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.11.47:075][881]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.11.47:075][881]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack1EA35B61437FE8C593EA51AF33E371D8.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.11.47:081][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.58 sec)
+[2024.10.14-12.11.47:082][881]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.11.47:082][881]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.11.48:142][998]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.11.48:145][998]LogBlueprint: Error: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] No input structure to break for  Struct Spell
+[2024.10.14-12.11.48:166][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.11.55:837][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.11.55:843][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.11.55:907][885]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.11.55:907][885]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackF492ABC544D07CCD1341039B1F4DE4D1.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.11.55:913][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.65 sec)
+[2024.10.14-12.11.55:914][885]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.11.55:914][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.11.56:111][908]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.11.56:132][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.12.08:321][261]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.10.14-12.12.08:325][261]LogContentBrowser: Creating deferred item: NewInterface
+[2024.10.14-12.12.08:346][263]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.10.14-12.12.19:226][567]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Has_Ranged_Attack
+[2024.10.14-12.12.19:230][567]LogContentBrowser: End creating deferred item NewInterface
+[2024.10.14-12.12.19:395][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack.BPI_Has_Ranged_Attack
+[2024.10.14-12.12.19:396][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.12.19:396][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-12.12.19:717][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.12.19:724][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.12.19:768][619]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack
+[2024.10.14-12.12.19:768][619]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPI_Has_Ranged_Attack19B161934D4370121AF050A7665D52B9.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack.uasset'
+[2024.10.14-12.12.19:776][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.70 sec)
+[2024.10.14-12.12.19:776][619]AssetCheck: New page: Asset Save: BPI_Has_Ranged_Attack
+[2024.10.14-12.12.19:776][619]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack.BPI_Has_Ranged_Attack
+[2024.10.14-12.12.29:651][799]BlueprintLog: New page: Compile BPI_Has_Ranged_Attack
+[2024.10.14-12.12.29:663][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.14-12.13.01:231][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.14-12.13.01:234][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.13.01:284][515]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack
+[2024.10.14-12.13.01:285][515]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPI_Has_Ranged_AttackB29A2A8C48FC1BDB7A799FB459D604F6.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack.uasset'
+[2024.10.14-12.13.01:289][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.76 sec)
+[2024.10.14-12.13.01:290][515]AssetCheck: New page: Asset Save: BPI_Has_Ranged_Attack
+[2024.10.14-12.13.01:290][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack.BPI_Has_Ranged_Attack
+[2024.10.14-12.13.02:034][604]BlueprintLog: New page: Compile BPI_Has_Ranged_Attack
+[2024.10.14-12.13.02:045][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.15.36:202][615]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.14-12.15.36:210][615]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.14-12.15.36:215][616]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.14-12.15.41:838][290]LogContentBrowser: Attempting asset rename: NewFolder -> Ranged
+[2024.10.14-12.15.41:838][290]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.14-12.15.46:075][524]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Student\Downloads\magic-staff\source\Staff.fbx)
+[2024.10.14-12.15.46:093][524]LogFbx: Loading FBX Scene from C:\Users\Student\Downloads\magic-staff\source\Staff.fbx
+[2024.10.14-12.15.46:100][524]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.14-12.15.48:200][524]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.14-12.15.48:291][524]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\user\Documents\65536112\System\3D\Models\Fern\Textures\Material.001_BaseColor.png
+[2024.10.14-12.15.48:291][524]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\user\Documents\65536112\System\3D\Models\Fern\Textures\Material.001_Emission.png
+[2024.10.14-12.15.48:291][524]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\user\Documents\65536112\System\3D\Models\Fern\Textures\Material.001_Roughness.png
+[2024.10.14-12.15.48:291][524]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\user\Documents\65536112\System\3D\Models\Fern\Textures\Material.001_Normal.png
+[2024.10.14-12.15.48:297][524]LogFbx: Display: Triangulating static mesh Staff_L
+[2024.10.14-12.15.48:341][524]LogStaticMesh: Display: Building static mesh Staff...
+[2024.10.14-12.15.48:365][524]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.14-12.15.48:385][524]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.10.14-12.15.48:542][527]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.15.48:985][565]LogShaderCompilers: Display: ================================================
+[2024.10.14-12.15.48:985][565]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.14-12.15.48:985][565]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 4 distinct outputs (80.00%)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: RAM used: 101.29 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Shaders Compiled: 5
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Jobs assigned 8, completed 5 (62.50%)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Average time worker was idle: 2114.70 s
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.11 s
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Job execution time: average 0.30 s, max 0.32 s
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Job life time (pending + execution): average 0.39 s, max 0.42
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Shader code size: average 33.056 KiB, min 29.711 KiB, max 35.902 KiB
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.83 s
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Average processing rate: 6.02 jobs/sec
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Total thread time: 0.621 s
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Total thread preprocess time: 0.087 s
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Percentage time preprocessing: 13.99%
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Effective parallelization: 0.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.09 sec, max 0.10 sec, min 0.07 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 27.71% of total time (compiled    2 times, average 0.09 sec, max 0.10 sec, min 0.07 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.77% of total time (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.85% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.67% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.10.14-12.15.48:986][565]LogShaderCompilers: Display: ================================================
+[2024.10.14-12.15.49:246][594]LogSlate: Window 'Message Log' being destroyed
+[2024.10.14-12.15.49:251][594]LogSlate: Window 'Message Log' being destroyed
+[2024.10.14-12.15.51:532][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.15.52:336][847]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.14-12.15.52:347][847]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Static_Meshes/Ranged/Staff1.Staff1
+	Asset Type: Material
+[2024.10.14-12.15.52:585][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.14-12.15.52:596][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.15.52:604][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.14-12.15.56:575][287]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.14-12.15.56:593][287]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.14-12.15.56:598][288]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.10.14-12.15.58:721][542]LogContentBrowser: Attempting asset rename: NewFolder -> Ranged
+[2024.10.14-12.15.58:721][542]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.14-12.16.07:466][771]LogInterchangeEngine: [Pending] Importing
+[2024.10.14-12.16.07:466][771]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...magic-staff/textures/Material.001_BaseColor.png]
+[2024.10.14-12.16.07:466][771]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.14-12.16.07:466][771]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...magic-staff/textures/Material.001_Emission.png]
+[2024.10.14-12.16.07:467][771]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.14-12.16.07:467][771]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...magic-staff/textures/Material.001_Normal.png]
+[2024.10.14-12.16.07:467][771]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.10.14-12.16.07:467][771]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...magic-staff/textures/Material.001_Roughness.png]
+[2024.10.14-12.16.07:467][771]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.10.14-12.16.07:467][771]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Dow...magic-staff/textures/Material.001_Alpha.png]
+[2024.10.14-12.16.07:496][772]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.10.14-12.16.07:502][772]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.10.14-12.16.07:517][772]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.10.14-12.16.07:520][772]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.10.14-12.16.07:832][772]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Emission.Material_001_Emission (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.14-12.16.07:832][772]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Alpha.Material_001_Alpha (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.14-12.16.07:835][772]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Roughness.Material_001_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.10.14-12.16.07:848][772]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.10.14-12.16.07:867][773]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_BaseColor.Material_001_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.10.14-12.16.07:881][773]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Normal.Material_001_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.10.14-12.16.08:216][773]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.10.14-12.16.08:216][773]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.10.14-12.16.08:216][773]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.10.14-12.16.08:216][773]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.10.14-12.16.08:233][773]LogInterchangeEngine: [Success] Import Done
+[2024.10.14-12.16.08:245][774]LogInterchangeEngine: [Success] Import Done
+[2024.10.14-12.16.11:215][ 52]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.10.14-12.16.11:928][109]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.10.14-12.16.11:934][109]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.10.14-12.16.11:940][110]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.10.14-12.16.14:043][361]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Staff
+[2024.10.14-12.16.14:044][361]LogContentBrowser: End creating deferred item NewMaterial
+[2024.10.14-12.16.16:414][603]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/Ranged/M_Staff.M_Staff
+[2024.10.14-12.16.16:432][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.16.16:432][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-12.16.16:542][603]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.16.16:542][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.14-12.16.16:542][603]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.16.16:548][603]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.10.14-12.16.16:940][632]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.14-12.16.16:940][632]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.14-12.16.16:941][632]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.14-12.16.16:941][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.14-12.16.16:941][632]MaterialEditorStats: Shader Count: 4
+[2024.10.14-12.16.17:226][650]LogViewport: Scene viewport resized to 248x288, mode Windowed.
+[2024.10.14-12.16.17:577][650]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.10.14-12.16.18:325][727]LogViewport: Scene viewport resized to 375x456, mode Windowed.
+[2024.10.14-12.16.18:392][729]LogViewport: Scene viewport resized to 232x263, mode Windowed.
+[2024.10.14-12.16.18:459][730]LogViewport: Scene viewport resized to 152x160, mode Windowed.
+[2024.10.14-12.16.21:192][994]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.16.21:192][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.14-12.16.21:192][994]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.16.21:218][995]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.10.14-12.16.21:218][995]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.10.14-12.16.21:218][995]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.14-12.16.21:218][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.14-12.16.21:218][995]MaterialEditorStats: Shader Count: 4
+[2024.10.14-12.16.21:926][ 69]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.10.14-12.16.30:597][ 26]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.16.30:597][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.14-12.16.30:597][ 26]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.30:597][ 26]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.16.30:806][ 40]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.14-12.16.30:806][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.14-12.16.30:806][ 40]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.30:806][ 40]MaterialEditorStats: Shader Count: 1
+[2024.10.14-12.16.30:896][ 50]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.10.14-12.16.30:896][ 50]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.16.30:896][ 50]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.14-12.16.30:896][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.14-12.16.30:896][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.30:896][ 50]MaterialEditorStats: Shader Count: 4
+[2024.10.14-12.16.31:844][148]LogViewport: Scene viewport resized to 152x160, mode Windowed.
+[2024.10.14-12.16.34:643][386]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.10.14-12.16.48:047][888]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.16.48:047][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.14-12.16.48:047][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.48:047][888]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.16.48:304][916]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.14-12.16.48:304][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.14-12.16.48:304][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.48:304][916]MaterialEditorStats: Shader Count: 1
+[2024.10.14-12.16.48:413][928]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.10.14-12.16.48:413][928]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.14-12.16.48:413][928]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.10.14-12.16.48:413][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.48:413][928]MaterialEditorStats: Shader Count: 2
+[2024.10.14-12.16.51:237][247]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.16.51:237][247]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.16.51:237][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.51:237][247]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.16.51:491][271]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.14-12.16.51:491][271]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.16.51:491][271]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.51:491][271]MaterialEditorStats: Shader Count: 1
+[2024.10.14-12.16.51:591][283]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.10.14-12.16.51:591][283]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.14-12.16.51:591][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.16.51:591][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.51:591][283]MaterialEditorStats: Shader Count: 2
+[2024.10.14-12.16.52:295][356]LogViewport: Scene viewport resized to 152x160, mode Windowed.
+[2024.10.14-12.16.53:526][356]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.10.14-12.16.55:298][550]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.16.55:298][550]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.14-12.16.55:298][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.55:298][550]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.16.55:643][575]LogViewport: Scene viewport resized to 152x160, mode Windowed.
+[2024.10.14-12.16.56:743][575]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.10.14-12.16.56:758][575]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.10.14-12.16.56:758][575]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.14-12.16.56:758][575]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.14-12.16.56:758][575]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.16.56:758][575]MaterialEditorStats: Shader Count: 2
+[2024.10.14-12.17.02:438][229]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.17.02:438][229]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.17.02:438][229]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.02:439][229]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.17.02:657][249]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.10.14-12.17.02:657][249]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.17.02:657][249]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.14-12.17.02:657][249]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.17.02:657][249]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.02:657][249]MaterialEditorStats: Shader Count: 3
+[2024.10.14-12.17.04:563][470]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.17.04:563][470]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.17.04:563][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.04:563][470]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.17.04:579][472]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.10.14-12.17.04:579][472]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.17.04:579][472]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.14-12.17.04:579][472]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.17.04:579][472]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.04:579][472]MaterialEditorStats: Shader Count: 4
+[2024.10.14-12.17.06:716][714]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.17.06:716][714]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.17.06:716][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.06:716][714]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.17.06:743][715]MaterialEditorStats: Base pass shader: 200 instructions
+[2024.10.14-12.17.06:743][715]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.17.06:743][715]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.14-12.17.06:743][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.10.14-12.17.06:743][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.06:743][715]MaterialEditorStats: Shader Count: 4
+[2024.10.14-12.17.20:680][365]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.17.20:680][365]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.14-12.17.20:680][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.20:680][365]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.17.20:855][381]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.14-12.17.20:855][381]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.14-12.17.20:855][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.20:855][381]MaterialEditorStats: Shader Count: 1
+[2024.10.14-12.17.20:953][392]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.10.14-12.17.20:953][392]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.17.20:954][392]MaterialEditorStats: Texture samplers: 5/16
+[2024.10.14-12.17.20:954][392]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.10.14-12.17.20:954][392]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.20:954][392]MaterialEditorStats: Shader Count: 4
+[2024.10.14-12.17.21:761][477]LogViewport: Scene viewport resized to 152x160, mode Windowed.
+[2024.10.14-12.17.22:677][477]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2024.10.14-12.17.26:087][853]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.14-12.17.26:087][853]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.14-12.17.26:087][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.26:087][853]MaterialEditorStats: Shader Count: 0
+[2024.10.14-12.17.26:282][870]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.14-12.17.26:283][870]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.14-12.17.26:283][870]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.26:283][870]MaterialEditorStats: Shader Count: 1
+[2024.10.14-12.17.26:384][878]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.14-12.17.26:384][878]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.17.26:384][878]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.14-12.17.26:384][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.14-12.17.26:384][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.26:384][878]MaterialEditorStats: Shader Count: 4
+[2024.10.14-12.17.26:973][942]LogMaterialEditor: Applying material M_Staff
+[2024.10.14-12.17.27:021][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.17.27:419][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.14-12.17.27:426][942]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.14-12.17.27:426][942]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.14-12.17.27:426][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.27:426][942]MaterialEditorStats: Shader Count: 2
+[2024.10.14-12.17.27:445][944]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.14-12.17.27:445][944]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.17.27:445][944]MaterialEditorStats: Texture samplers: 6/16
+[2024.10.14-12.17.27:445][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.14-12.17.27:445][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.27:445][944]MaterialEditorStats: Shader Count: 6
+[2024.10.14-12.17.27:901][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.17.28:455][997]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Ranged/M_Staff
+[2024.10.14-12.17.28:455][997]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/M_Staff617AF3194A27B03B00EC3880EB406C4D.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Materials/Ranged/M_Staff.uasset'
+[2024.10.14-12.17.28:467][997]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Ranged/Material_001_Alpha
+[2024.10.14-12.17.28:467][997]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Material_001_Alpha91C9BB6F41473510F4D19E83A334B34C.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Materials/Ranged/Material_001_Alpha.uasset'
+[2024.10.14-12.17.28:477][997]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Ranged/Material_001_Roughness
+[2024.10.14-12.17.28:477][997]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Material_001_RoughnessE477F0554A16C6994A2518BA1375BC12.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Materials/Ranged/Material_001_Roughness.uasset'
+[2024.10.14-12.17.28:513][997]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Ranged/Material_001_BaseColor
+[2024.10.14-12.17.28:514][997]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Material_001_BaseColorD28DA3F940831C8C32368C8F5787659F.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Materials/Ranged/Material_001_BaseColor.uasset'
+[2024.10.14-12.17.28:554][997]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Ranged/Material_001_Normal
+[2024.10.14-12.17.28:554][997]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Material_001_Normal8356ACAE4E272678EC198F827D389811.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Materials/Ranged/Material_001_Normal.uasset'
+[2024.10.14-12.17.28:567][997]LogSavePackage: Moving output files for package: /Game/Assets/Materials/Ranged/Material_001_Emission
+[2024.10.14-12.17.28:568][997]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Material_001_Emission593F5F52437DBA7152B40F82B54781BA.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Materials/Ranged/Material_001_Emission.uasset'
+[2024.10.14-12.17.28:570][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 669 ms (total: 2.43 sec)
+[2024.10.14-12.17.28:571][997]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.14-12.17.28:571][997]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Materials/Ranged/M_Staff.M_Staff
+[2024.10.14-12.17.28:571][997]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Materials/Ranged/Material_001_Alpha.Material_001_Alpha
+[2024.10.14-12.17.28:571][997]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Materials/Ranged/Material_001_Roughness.Material_001_Roughness
+[2024.10.14-12.17.28:571][997]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Materials/Ranged/Material_001_BaseColor.Material_001_BaseColor
+[2024.10.14-12.17.28:571][997]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Materials/Ranged/Material_001_Normal.Material_001_Normal
+[2024.10.14-12.17.28:571][997]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Materials/Ranged/Material_001_Emission.Material_001_Emission
+[2024.10.14-12.17.28:572][997]MaterialEditorStats: Base pass shader: 210 instructions
+[2024.10.14-12.17.28:572][997]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.10.14-12.17.28:572][997]MaterialEditorStats: MaxSampler: 260 instructions
+[2024.10.14-12.17.28:572][997]MaterialEditorStats: Texture samplers: 7/16
+[2024.10.14-12.17.28:572][997]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.10.14-12.17.28:572][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.14-12.17.28:572][997]MaterialEditorStats: Shader Count: 16
+[2024.10.14-12.17.33:589][569]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.14-12.17.33:600][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.17.33:600][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-12.17.33:962][569]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.10.14-12.17.34:821][656]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.14-12.17.36:809][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.17.36:813][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.17.36:877][845]LogSavePackage: Moving output files for package: /Game/Assets/Static_Meshes/Ranged/Staff
+[2024.10.14-12.17.36:877][845]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/StaffB5739BBD48AD83EE56D676B4014EADF5.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Static_Meshes/Ranged/Staff.uasset'
+[2024.10.14-12.17.36:883][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.50 sec)
+[2024.10.14-12.17.36:884][845]AssetCheck: New page: Asset Save: Staff
+[2024.10.14-12.17.36:884][845]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.14-12.17.42:632][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.14-12.18.04:939][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.14-12.18.04:943][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.18.04:993][201]LogSavePackage: Moving output files for package: /Game/Assets/Static_Meshes/Ranged/Staff
+[2024.10.14-12.18.04:994][201]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/StaffF8089C914D2083FA1301948706B6BA00.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Static_Meshes/Ranged/Staff.uasset'
+[2024.10.14-12.18.04:999][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.55 sec)
+[2024.10.14-12.18.05:000][201]AssetCheck: New page: Asset Save: Staff
+[2024.10.14-12.18.05:000][201]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.14-12.18.21:608][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.14-12.18.21:612][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.18.21:670][176]LogSavePackage: Moving output files for package: /Game/Assets/Static_Meshes/Ranged/Staff
+[2024.10.14-12.18.21:670][176]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Staff755AD6C3407DE558C35851AE635EE579.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Static_Meshes/Ranged/Staff.uasset'
+[2024.10.14-12.18.21:675][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.62 sec)
+[2024.10.14-12.18.21:676][176]AssetCheck: New page: Asset Save: Staff
+[2024.10.14-12.18.21:676][176]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.14-12.18.37:231][979]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell.Struct_Spell
+[2024.10.14-12.19.35:579][774]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-12.19.35:621][774]LogFMOD: Display: Loaded bank lookup
+[2024.10.14-12.19.35:621][774]LogFMOD: Error: Failed to load asset lookup
+[2024.10.14-12.19.35:624][774]LogFMOD: Default sample rate = 48000
+[2024.10.14-12.19.35:624][774]LogFMOD: System sample rate = 48000
+[2024.10.14-12.19.35:624][774]LogFMOD: Matching system sample rate 48000
+[2024.10.14-12.19.35:638][774]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2024.10.14-12.19.35:680][774]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.14-12.19.35:680][774]LogPlayLevel: [PlayLevel] Compiling BPC_Ranged_Attack before play...
+[2024.10.14-12.19.35:717][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.19.35:719][774]LogPlayLevel: PlayLevel: Blueprint regeneration took 39 ms (1 blueprints)
+[2024.10.14-12.19.35:719][774]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 14:19:35)
+[2024.10.14-12.19.35:748][774]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-12.19.35:750][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001624s)
+[2024.10.14-12.19.35:750][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001665s)
+[2024.10.14-12.19.35:760][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-12.19.35:761][774]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.19.35:762][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-12.19.35:762][774]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-12.19.35:762][774]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2024.10.14-12.19.35:762][774]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.14-12.19.35:762][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-12.19.35:762][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-12.19.35:762][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-12.19.35:762][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-12.19.35:762][774]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-12.19.35:762][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-12.19.35:762][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-12.19.35:762][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-12.19.35:762][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-12.19.35:763][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-12.19.35:763][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-12.19.35:764][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-12.19.35:780][774]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.14-12.19.35:780][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-12.19.35:780][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-12.19.35:780][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-12.19.35:781][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.14-12.19.35:781][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.14-12.19.35:782][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.14-12.19.35:782][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.14-12.19.35:782][774]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.14-12.19.35:782][774]LogAudio: Display: Audio Device (ID: 4) registered with world 'Dev_Level'.
+[2024.10.14-12.19.35:782][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.14-12.19.35:785][774]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-12.19.35:786][774]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-13.19.35
+[2024.10.14-12.19.35:786][774]LogWorld: Bringing up level for play took: 0.000515
+[2024.10.14-12.19.35:786][774]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.10.14-12.19.35:788][774]PIE: Server logged in
+[2024.10.14-12.19.35:789][774]PIE: Play in editor total start time 0.206 seconds.
+[2024.10.14-12.19.35:809][775]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-12.19.41:830][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-12.19.41:830][478]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-12.19.41:830][478]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-12.19.41:831][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-12.19.41:833][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-12.19.41:836][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-12.19.41:846][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-12.19.41:846][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.14-12.19.41:846][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.14-12.19.41:848][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.14-12.19.41:854][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.14-12.19.41:884][479]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.10.14-12.19.44:038][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.19.44:042][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.19.44:092][731]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.19.44:092][731]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackECF8484B45ECF7AC4A1AC89167E37899.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.19.44:099][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 2.67 sec)
+[2024.10.14-12.19.44:100][731]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.19.44:100][731]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.19.58:305][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.14-12.19.58:310][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.19.58:358][352]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.19.58:358][352]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack31C1308B4B5A3796A9C1F6A6330CB842.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.19.58:363][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.73 sec)
+[2024.10.14-12.19.58:364][352]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.19.58:364][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.19.59:723][510]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.19.59:748][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.20.03:871][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.20.03:875][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.20.03:942][961]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.20.03:943][961]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackA23093734B4CEE68FC16A09066B689A1.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.20.03:948][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.80 sec)
+[2024.10.14-12.20.03:949][961]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.20.03:949][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.20.04:569][ 33]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.20.04:594][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.20.44:431][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.20.44:436][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.20.44:493][722]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.20.44:493][722]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackC676453443CF7F130472C4AF6607BDF4.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.20.44:497][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.86 sec)
+[2024.10.14-12.20.44:499][722]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.20.44:499][722]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.20.45:012][777]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.20.45:036][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.21.17:106][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-12.21.17:111][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.21.17:176][468]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.21.17:176][468]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack5D4B5AE14FC6D01CA7CBAE896E9FA2B1.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.21.17:180][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.93 sec)
+[2024.10.14-12.21.17:182][468]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.21.17:182][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.22.02:898][927]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.10.14-12.22.02:898][927]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.10.14-12.22.20:460][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.22.20:463][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.22.20:526][962]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.22.20:526][962]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack236DC7FB44DB8D7CC5BFDF987EAE17F5.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.22.20:531][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.00 sec)
+[2024.10.14-12.22.20:532][962]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.22.20:532][962]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.22.47:354][ 34]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.10.14-12.22.51:337][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.14-12.22.51:341][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.22.51:394][502]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.22.51:394][502]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack890A7E5F4C7F9C0FA8654992AA35A0D9.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.22.51:399][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 3.06 sec)
+[2024.10.14-12.22.51:400][502]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.22.51:400][502]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.22.59:219][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.14-12.22.59:223][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.22.59:277][362]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.22.59:277][362]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackCAA0014D45DC211458CDD2BD422AA5CC.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.22.59:282][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 3.11 sec)
+[2024.10.14-12.22.59:283][362]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.22.59:283][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.22.59:679][409]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.22.59:682][409]LogBlueprint: Warning: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] Get Ranged Weapon Mesh  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.10.14-12.22.59:683][409]LogBlueprint: Error: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.10.14-12.22.59:705][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.24.26:215][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.14-12.24.26:219][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.24.26:278][181]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.24.26:278][181]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackCFCDF3D44029A3CF1EBCBE9D4A2AEC26.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.24.26:282][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.18 sec)
+[2024.10.14-12.24.26:284][181]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.24.26:284][181]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.24.26:880][253]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.24.26:883][253]LogBlueprint: Warning: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] Get Ranged Weapon Mesh  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.10.14-12.24.26:884][253]LogBlueprint: Error: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.10.14-12.24.26:906][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.24.35:441][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.24.35:445][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.24.35:496][174]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.24.35:496][174]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack789984064EDFED68419F55B79BC69BC5.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.24.35:501][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.24 sec)
+[2024.10.14-12.24.35:501][174]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.24.35:501][174]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.24.35:929][224]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.24.35:932][224]LogBlueprint: Warning: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] Get Ranged Weapon Mesh  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.10.14-12.24.35:933][224]LogBlueprint: Error: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.10.14-12.24.35:955][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.14-12.24.41:356][849]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.24.41:358][849]LogBlueprint: Warning: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] Get Ranged Weapon Mesh  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.10.14-12.24.41:359][849]LogBlueprint: Error: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.10.14-12.24.41:382][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.25.17:697][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.25.17:703][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.25.17:764][999]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.25.17:764][999]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackA730130C4DF4977C7549C399A246657C.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.25.17:769][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.30 sec)
+[2024.10.14-12.25.17:771][999]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.25.17:771][999]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.25.18:155][ 45]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.25.18:157][ 45]LogBlueprint: Warning: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] Get Ranged Weapon Mesh  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.10.14-12.25.18:158][ 45]LogBlueprint: Error: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.10.14-12.25.18:180][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.25.21:557][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-12.25.21:562][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.25.21:614][423]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.25.21:614][423]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack7A6F392C46D84C5D4C22F784465CA29A.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.25.21:619][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 3.36 sec)
+[2024.10.14-12.25.21:620][423]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.25.21:620][423]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.25.22:196][491]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.25.22:199][491]LogBlueprint: Warning: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] Get Ranged Weapon Mesh  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.10.14-12.25.22:200][491]LogBlueprint: Error: [AssetLog] C:\Users\Student\Desktop\Harry Brennan\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Ranged\Components\BPC_Ranged_Attack.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.10.14-12.25.22:222][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.25.31:802][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.25.31:805][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.25.31:847][529]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.25.31:847][529]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack45D6595243B3DB98262DFDA522A5F60C.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.25.31:852][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 3.40 sec)
+[2024.10.14-12.25.31:853][529]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.25.31:853][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.27.57:199][546]BlueprintLog: New page: Collapse to Macro
+[2024.10.14-12.28.32:638][695]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.28.32:666][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.29.00:371][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.29.00:378][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.29.00:451][787]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.29.00:451][787]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack3D0D3A224352AEB20B467E8B934D6CFD.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.29.00:456][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.48 sec)
+[2024.10.14-12.29.00:457][787]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.29.00:457][787]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.29.01:255][875]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.29.01:282][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.14-12.30.35:930][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2024.10.14-12.30.35:930][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.30.35:930][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-12.32.10:420][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.14-12.32.10:426][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.32.10:485][759]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.32.10:485][759]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackE4C69A3D4B336B3BA90C67B93458B3EC.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.32.10:490][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.55 sec)
+[2024.10.14-12.32.10:491][759]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.32.10:491][759]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.32.30:405][ 23]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.32.30:430][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.32.32:483][235]LogSlate: Window 'StandardMacros' being destroyed
+[2024.10.14-12.32.33:002][296]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-12.32.33:002][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-12.32.57:019][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-12.32.57:024][435]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_Maps/Dev_Level' took 0.019
+[2024.10.14-12.32.57:025][435]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack] ([2] browsable assets)...
+[2024.10.14-12.32.57:025][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack]
+[2024.10.14-12.32.57:040][435]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto3
+[2024.10.14-12.32.57:040][435]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack_Auto311A310CD491E8243EB2B27ADD0266AD1.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto3.uasset'
+[2024.10.14-12.32.57:041][435]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.10.14-12.33.19:458][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.33.19:461][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.33.19:537][766]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.33.19:537][766]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack47BE5FD44935E224B691FAA4A5FB4339.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.33.19:543][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.63 sec)
+[2024.10.14-12.33.19:543][766]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.33.19:543][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.33.19:814][798]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.33.19:837][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-12.33.37:772][759]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.33.37:801][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.33.38:061][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.33.38:067][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.33.38:134][779]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.33.38:134][779]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack1A719BAF4BF12A21C996AAAAEDF75F22.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.33.38:139][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.70 sec)
+[2024.10.14-12.33.38:141][779]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.33.38:141][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.35.40:407][206]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.10.14-12.36.20:585][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.14-12.36.20:590][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.36.20:636][851]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.36.20:636][851]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackEECD50C04E69B6A308DC05AF9CE71E2F.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.36.20:641][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 3.75 sec)
+[2024.10.14-12.36.20:643][851]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.36.20:643][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.36.20:898][881]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.36.20:930][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.36.31:572][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.36.31:577][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.36.31:653][144]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.36.31:653][144]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackF6D5A38647E799522045D3B814BA23D2.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.36.31:658][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.83 sec)
+[2024.10.14-12.36.31:659][144]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.36.31:659][144]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.36.32:790][271]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.36.32:824][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.14-12.36.45:483][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.36.45:489][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.36.45:552][762]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.36.45:553][762]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack0F1E3A23477DA4FED364788DC0FB13E1.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.36.45:558][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.90 sec)
+[2024.10.14-12.36.45:559][762]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.36.45:559][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.36.46:756][903]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.36.46:789][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.39.14:110][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.39.14:117][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.39.14:186][273]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.39.14:186][273]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack58247E9A46FAA214C956AD98D08F2557.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.39.14:191][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.97 sec)
+[2024.10.14-12.39.14:192][273]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.39.14:192][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.39.15:292][404]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.39.15:325][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.42.40:620][860]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6185 files in 7947 folders with total size 277 MiB.
+[2024.10.14-12.42.43:900][227]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.42.43:937][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.10.14-12.42.55:782][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.42.55:787][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.42.55:856][575]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.42.55:856][575]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack99034AB54E8805001AB8AB899C46B6CB.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.42.55:862][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 4.05 sec)
+[2024.10.14-12.42.55:863][575]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.42.55:863][575]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.42.57:333][738]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.42.57:359][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.43.39:893][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.43.39:897][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.43.39:973][692]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.43.39:973][692]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackBD44D57F4D4E81E9927AEEA1D6976541.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.43.39:978][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 4.13 sec)
+[2024.10.14-12.43.39:981][692]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.43.39:981][692]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.43.41:092][824]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.43.41:126][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.43.57:802][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.43.57:807][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.43.57:874][802]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.43.57:874][802]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackD63C80D8442D537FE964F498FD8EE3BF.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.43.57:879][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 4.20 sec)
+[2024.10.14-12.43.57:880][802]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.43.57:880][802]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.44.18:751][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.14-12.44.18:755][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.44.18:807][288]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.44.18:807][288]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack6CE7C25248BBD36D3657BF8B012D7C4C.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.44.18:813][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 4.26 sec)
+[2024.10.14-12.44.18:814][288]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.44.18:814][288]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.44.19:142][327]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.44.19:179][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-12.45.00:820][195]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-12.45.00:859][195]LogFMOD: Display: Loaded bank lookup
+[2024.10.14-12.45.00:859][195]LogFMOD: Error: Failed to load asset lookup
+[2024.10.14-12.45.00:862][195]LogFMOD: Default sample rate = 48000
+[2024.10.14-12.45.00:862][195]LogFMOD: System sample rate = 48000
+[2024.10.14-12.45.00:862][195]LogFMOD: Matching system sample rate 48000
+[2024.10.14-12.45.00:876][195]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2024.10.14-12.45.00:921][195]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.14-12.45.00:921][195]LogPlayLevel: [PlayLevel] Compiling BPC_Ranged_Attack before play...
+[2024.10.14-12.45.01:005][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.14-12.45.01:009][195]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2024.10.14-12.45.01:009][195]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 14:45:01)
+[2024.10.14-12.45.01:029][195]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-12.45.01:030][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001431s)
+[2024.10.14-12.45.01:030][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001461s)
+[2024.10.14-12.45.01:040][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.45.01:041][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.45.01:042][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-12.45.01:042][195]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-12.45.01:042][195]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2024.10.14-12.45.01:042][195]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.14-12.45.01:042][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-12.45.01:042][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-12.45.01:042][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-12.45.01:042][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-12.45.01:042][195]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-12.45.01:042][195]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-12.45.01:042][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-12.45.01:042][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-12.45.01:043][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-12.45.01:043][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-12.45.01:043][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-12.45.01:044][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-12.45.01:060][195]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.14-12.45.01:061][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-12.45.01:061][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-12.45.01:061][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-12.45.01:061][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.14-12.45.01:061][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.14-12.45.01:063][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.14-12.45.01:063][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.14-12.45.01:063][195]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.14-12.45.01:063][195]LogAudio: Display: Audio Device (ID: 5) registered with world 'Dev_Level'.
+[2024.10.14-12.45.01:063][195]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.14-12.45.01:064][195]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-12.45.01:065][195]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-13.45.01
+[2024.10.14-12.45.01:065][195]LogWorld: Bringing up level for play took: 0.000471
+[2024.10.14-12.45.01:066][195]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.10.14-12.45.01:068][195]PIE: Server logged in
+[2024.10.14-12.45.01:068][195]PIE: Play in editor total start time 0.244 seconds.
+[2024.10.14-12.45.01:087][196]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-12.45.05:510][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-12.45.05:510][688]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-12.45.05:510][688]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-12.45.05:510][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-12.45.05:512][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-12.45.05:516][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-12.45.05:526][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-12.45.05:526][688]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.14-12.45.05:526][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.14-12.45.05:528][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.14-12.45.05:533][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.14-12.45.05:555][689]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.10.14-12.45.06:043][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-12.45.06:048][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.45.06:107][739]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.45.06:107][739]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackE2F81CBB4F3FC1BD02FFB2A10836889D.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.45.06:113][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.33 sec)
+[2024.10.14-12.45.06:115][739]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.45.06:115][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.46.00:919][  0]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Divide_DoubleDouble' [The specified module could not be found.]
+[2024.10.14-12.46.05:876][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.14-12.46.05:881][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.46.05:942][471]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.46.05:942][471]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack1093EFCF4425A91FD88ADF8F88974DDC.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.46.05:947][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.39 sec)
+[2024.10.14-12.46.05:948][471]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.46.05:948][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.48.31:429][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.14-12.48.31:433][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.48.31:509][752]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.48.31:509][752]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack090EBC394CEDB1C3B93064BA3092DF8B.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.48.31:514][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 4.48 sec)
+[2024.10.14-12.48.31:515][752]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.48.31:515][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.50.00:144][982]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.50.00:189][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.50.05:335][579]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.50.05:378][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.14-12.50.58:730][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.50.58:734][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.50.58:811][829]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.50.58:811][829]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackF3B05B2349A59DC9A9D0109729C43943.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.50.58:817][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.56 sec)
+[2024.10.14-12.50.58:818][829]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.50.58:818][829]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.50.59:328][888]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.50.59:372][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.51.31:638][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.51.31:642][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.51.31:712][642]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.51.31:712][642]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack0191C36E4ECB60C9FEC42382802DEBD7.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.51.31:717][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 4.63 sec)
+[2024.10.14-12.51.31:719][642]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.51.31:719][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.51.32:593][745]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.51.32:635][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.52.35:605][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.14-12.52.35:608][163]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels_Maps/Dev_Level' took 0.012
+[2024.10.14-12.52.35:608][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack] ([2] browsable assets)...
+[2024.10.14-12.52.35:608][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/Combat/Ranged/Components/BPC_Ranged_Attack]
+[2024.10.14-12.52.35:626][163]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto4
+[2024.10.14-12.52.35:626][163]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack_Auto4C4A23B654FEAE470FA7948BE37B4ECDF.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Autosaves/Game/Combat/Ranged/Components/BPC_Ranged_Attack_Auto4.uasset'
+[2024.10.14-12.52.35:627][163]LogFileHelpers: Auto-saving content packages took 0.019
+[2024.10.14-12.55.35:865][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.14-12.55.35:869][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.55.35:946][152]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.55.35:946][152]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack4FEBF2B24E6359F1E90ACFBFE83539CE.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.55.35:951][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.72 sec)
+[2024.10.14-12.55.35:952][152]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.55.35:952][152]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.55.36:202][182]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.55.36:252][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-12.56.56:414][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.14-12.56.56:418][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.56.56:495][766]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.56.56:496][766]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_AttackF9867F0C4E2342A98643A7ACA2155113.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.56.56:501][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 4.80 sec)
+[2024.10.14-12.56.56:503][766]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.56.56:503][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.56.57:085][836]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.56.57:134][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-12.57.58:047][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.14-12.57.58:051][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.57.58:113][757]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.57.58:114][757]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack4D7F804B4F1775E5BEF69BB3C838F68B.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.57.58:119][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.87 sec)
+[2024.10.14-12.57.58:120][757]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.57.58:120][757]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.58.05:671][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.14-12.58.05:675][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.58.05:730][659]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.58.05:730][659]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack0C397F474F3E38D43963AF9CCFC0E4CD.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.58.05:736][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 4.93 sec)
+[2024.10.14-12.58.05:737][659]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.58.05:737][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.58.07:737][873]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.58.07:787][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.58.53:364][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-12.58.53:368][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-12.58.53:448][199]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Components/BPC_Ranged_Attack
+[2024.10.14-12.58.53:448][199]LogSavePackage: Moving '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_Ranged_Attack4C8DC9FC4C59894572CBC08A8D19BB0A.tmp' to '../../../../../../Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset'
+[2024.10.14-12.58.53:454][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.01 sec)
+[2024.10.14-12.58.53:456][199]AssetCheck: New page: Asset Save: BPC_Ranged_Attack
+[2024.10.14-12.58.53:456][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack
+[2024.10.14-12.58.53:729][231]BlueprintLog: New page: Compile BPC_Ranged_Attack
+[2024.10.14-12.58.53:779][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.14-12.59.02:998][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Components/BPC_AttackHandler.BPC_AttackHandler
+[2024.10.14-12.59.02:998][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-12.59.02:998][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-12.59.26:964][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-12.59.27:622][144]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-12.59.27:622][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
