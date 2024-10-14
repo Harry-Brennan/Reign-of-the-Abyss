@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health.uasset",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Interfaces/BPI_Has_Health.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UE_Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UE_Content/StarterContent/Maps/StarterMap.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UE_Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset",
