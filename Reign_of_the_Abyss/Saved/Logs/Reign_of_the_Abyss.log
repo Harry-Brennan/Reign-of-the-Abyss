@@ -1607,3 +1607,598 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.10.14-18.25.10:786][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Ranged/Projectiles/BPs/BP_Spell_Projectile.BP_Spell_Projectile
 [2024.10.14-18.25.11:189][926]BlueprintLog: New page: Compile BP_Spell_Projectile
 [2024.10.14-18.25.11:222][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.14-18.42.44:966][  2]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=AW2521HFA (NVIDIA High Definition Audio), InstanceID=1
+[2024.10.14-18.42.44:977][  2]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10416
+[2024.10.14-18.42.45:330][  3]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ebf6bfae-e6ec-4e81-81e3-a3f51ad6fafe}, Name=AW2521HFA (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.84
+[2024.10.14-18.42.45:330][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.10.14-18.42.45:332][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.14-19.21.03:086][895]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.100 and deleted 0 files with total size 0 MiB and 13 empty folders. Scanned 12480 files in 14919 folders with total size 1266 MiB.
+[2024.10.14-19.42.45:716][802]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset), InstanceID=1
+[2024.10.14-19.42.46:028][802]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10416
+[2024.10.14-19.42.46:365][803]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{9ef285cd-c5cf-4d16-ae36-55cb9d4cf385}, Name=Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=90.20
+[2024.10.14-19.42.46:365][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.10.14-19.42.46:366][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.10.14-19.44.09:882][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-19.44.09:890][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-19.44.09:891][802]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 21:44:09)
+[2024.10.14-19.44.09:899][802]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.14-19.44.09:899][802]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.10.14-19.44.09:899][802]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.44.09:903][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003707s)
+[2024.10.14-19.44.09:903][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.003882s)
+[2024.10.14-19.44.09:912][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.14-19.44.09:915][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.44.09:915][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.44.09:916][802]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-19.44.09:917][802]LogPlayLevel: PIE: World Init took: (0.002031s)
+[2024.10.14-19.44.09:917][802]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.14-19.44.09:917][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-19.44.09:917][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-19.44.09:917][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-19.44.09:917][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-19.44.09:917][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-19.44.09:917][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-19.44.09:917][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-19.44.09:917][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-19.44.09:917][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-19.44.09:917][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-19.44.09:917][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-19.44.09:919][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-19.44.09:939][802]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.14-19.44.09:939][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-19.44.09:939][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-19.44.09:939][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-19.44.09:940][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.14-19.44.09:940][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.10.14-19.44.09:942][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.14-19.44.09:942][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.14-19.44.09:942][802]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.14-19.44.09:942][802]LogAudio: Display: Audio Device (ID: 2) registered with world 'Dev_Level'.
+[2024.10.14-19.44.09:942][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.14-19.44.09:964][802]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-19.44.09:965][802]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-20.44.09
+[2024.10.14-19.44.09:965][802]LogWorld: Bringing up level for play took: 0.000853
+[2024.10.14-19.44.09:967][802]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.10.14-19.44.09:975][802]PIE: Server logged in
+[2024.10.14-19.44.09:976][802]PIE: Play in editor total start time 0.086 seconds.
+[2024.10.14-19.44.10:008][803]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-19.44.10:017][803]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	BP_WeaponParent_C /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level:PersistentLevel.BP_WeaponParent_C_0
+	Function /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent_C:ExecuteUbergraph_BP_WeaponParent:04D1
+[2024.10.14-19.44.10:019][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue". Node:  Set WeaponName Graph:  EventGraph Function:  Execute Ubergraph BP Weapon Parent Blueprint:  BP_WeaponParent
+[2024.10.14-19.44.10:019][803]LogScript: Warning: Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue
+	BP_WeaponParent_C /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level:PersistentLevel.BP_WeaponParent_C_0
+	Function /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent_C:ExecuteUbergraph_BP_WeaponParent:0504
+[2024.10.14-19.44.10:019][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue". Node:  Set WeaponName Graph:  EventGraph Function:  Execute Ubergraph BP Weapon Parent Blueprint:  BP_WeaponParent
+[2024.10.14-19.44.10:019][803]LogScript: Warning: Attempted to assign to None
+	BP_WeaponParent_C /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level:PersistentLevel.BP_WeaponParent_C_0
+	Function /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent_C:ExecuteUbergraph_BP_WeaponParent:0519
+[2024.10.14-19.44.10:019][803]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set WeaponName Graph:  EventGraph Function:  Execute Ubergraph BP Weapon Parent Blueprint:  BP_WeaponParent
+[2024.10.14-19.44.10:034][803]LogSlate: New Slate User Created. Platform User Id 1, User Index 1, Is Virtual User: 0
+[2024.10.14-19.44.10:037][803]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2024.10.14-19.44.12:060][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.44.12:060][ 33]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.44.12:060][ 33]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.44.12:060][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.44.12:064][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-19.44.12:065][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.44.12:075][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-19.44.12:075][ 33]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.14-19.44.12:075][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.14-19.44.12:077][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.14-19.44.12:082][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.44.12:085][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.14-19.44.12:156][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.10.14-19.45.10:315][245]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.45.10:355][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.14-19.45.11:526][348]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-19.45.11:531][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-19.45.11:531][348]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 21:45:11)
+[2024.10.14-19.45.11:559][348]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.45.11:560][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001480s)
+[2024.10.14-19.45.11:560][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001569s)
+[2024.10.14-19.45.11:574][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.14-19.45.11:576][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.45.11:576][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.45.11:577][348]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-19.45.11:577][348]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2024.10.14-19.45.11:577][348]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.14-19.45.11:577][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-19.45.11:577][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-19.45.11:577][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-19.45.11:577][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-19.45.11:577][348]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-19.45.11:577][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-19.45.11:577][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-19.45.11:577][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-19.45.11:577][348]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-19.45.11:577][348]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-19.45.11:577][348]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-19.45.11:579][348]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-19.45.11:599][348]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.14-19.45.11:599][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-19.45.11:599][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-19.45.11:599][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-19.45.11:599][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.14-19.45.11:599][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.10.14-19.45.11:601][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.14-19.45.11:601][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.14-19.45.11:601][348]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.14-19.45.11:601][348]LogAudio: Display: Audio Device (ID: 3) registered with world 'Dev_Level'.
+[2024.10.14-19.45.11:601][348]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.14-19.45.11:603][348]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-19.45.11:604][348]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-20.45.11
+[2024.10.14-19.45.11:604][348]LogWorld: Bringing up level for play took: 0.000526
+[2024.10.14-19.45.11:605][348]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.10.14-19.45.11:606][348]PIE: Server logged in
+[2024.10.14-19.45.11:606][348]PIE: Play in editor total start time 0.076 seconds.
+[2024.10.14-19.45.11:620][349]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-19.45.14:740][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.45.14:740][706]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.45.14:740][706]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.45.14:740][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.45.14:743][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-19.45.14:745][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.45.14:754][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-19.45.14:754][706]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.14-19.45.14:754][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.14-19.45.14:756][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.14-19.45.14:759][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.45.14:761][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.14-19.45.14:806][709]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.10.14-19.45.15:399][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-19.45.15:403][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.45.15:429][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.45.15:488][778]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.14-19.45.15:489][778]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParentEB700C9342058B752C426E86DE107E6A.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.14-19.45.15:498][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 1.34 sec)
+[2024.10.14-19.45.15:501][778]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.14-19.45.15:501][778]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.14-19.45.18:837][167]LogSlate: Window 'Message Log' being destroyed
+[2024.10.14-19.45.18:844][167]LogSlate: Window 'Message Log' being destroyed
+[2024.10.14-19.46.14:414][269]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Weapons/Struct_Tables/Struct_Weapon_Info.Struct_Weapon_Info
+[2024.10.14-19.46.35:525][751]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-19.46.35:530][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-19.46.35:530][751]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 21:46:35)
+[2024.10.14-19.46.35:570][751]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.46.35:571][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001664s)
+[2024.10.14-19.46.35:571][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001704s)
+[2024.10.14-19.46.35:582][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.14-19.46.35:584][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.46.35:584][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.46.35:585][751]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-19.46.35:585][751]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2024.10.14-19.46.35:585][751]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.14-19.46.35:585][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-19.46.35:585][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-19.46.35:585][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-19.46.35:585][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-19.46.35:585][751]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-19.46.35:585][751]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-19.46.35:585][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-19.46.35:585][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-19.46.35:585][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-19.46.35:585][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-19.46.35:585][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-19.46.35:587][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-19.46.35:607][751]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.14-19.46.35:607][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-19.46.35:607][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-19.46.35:607][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-19.46.35:609][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.14-19.46.35:609][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.10.14-19.46.35:610][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.14-19.46.35:610][751]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.14-19.46.35:610][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.14-19.46.35:610][751]LogAudio: Display: Audio Device (ID: 4) registered with world 'Dev_Level'.
+[2024.10.14-19.46.35:610][751]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.14-19.46.35:612][751]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-19.46.35:613][751]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-20.46.35
+[2024.10.14-19.46.35:613][751]LogWorld: Bringing up level for play took: 0.000487
+[2024.10.14-19.46.35:614][751]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.10.14-19.46.35:615][751]PIE: Server logged in
+[2024.10.14-19.46.35:616][751]PIE: Play in editor total start time 0.086 seconds.
+[2024.10.14-19.46.35:628][752]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-19.46.40:592][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.46.40:592][319]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.46.40:592][319]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.46.40:592][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.46.40:595][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-19.46.40:598][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.46.40:607][319]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.14-19.46.40:608][319]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.14-19.46.40:608][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.14-19.46.40:609][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.14-19.46.40:615][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.46.40:617][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.14-19.46.40:644][321]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.10.14-19.46.41:144][373]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.46.41:186][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.46.52:172][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.14-19.46.52:176][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.46.52:202][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.46.52:285][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.46.52:329][640]LogSavePackage: Moving output files for package: /Game/Player/BPs/BP_ThirdPersonCharacter
+[2024.10.14-19.46.52:329][640]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_ThirdPersonCharacterA5A1F00B491132FF737D94AA4C2FE2E1.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset'
+[2024.10.14-19.46.52:338][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 1.51 sec)
+[2024.10.14-19.46.52:340][640]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.14-19.46.52:340][640]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BPs/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.14-19.46.52:340][640]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Player/BPs/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C_4
+[2024.10.14-19.46.52:405][648]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.10.14-19.46.52:421][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.10.14-19.46.52:425][648]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.10.14-19.46.52:452][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-19.47.26:168][632]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-19.47.26:174][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-19.47.26:174][632]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 21:47:26)
+[2024.10.14-19.47.26:220][632]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.47.26:222][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002104s)
+[2024.10.14-19.47.26:222][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.002156s)
+[2024.10.14-19.47.26:234][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.14-19.47.26:235][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.47.26:235][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.47.26:236][632]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-19.47.26:236][632]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2024.10.14-19.47.26:236][632]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.14-19.47.26:236][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-19.47.26:236][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-19.47.26:236][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-19.47.26:236][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-19.47.26:236][632]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-19.47.26:236][632]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-19.47.26:236][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-19.47.26:236][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-19.47.26:236][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-19.47.26:236][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-19.47.26:236][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-19.47.26:238][632]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-19.47.26:257][632]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.14-19.47.26:258][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-19.47.26:258][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-19.47.26:258][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-19.47.26:259][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.14-19.47.26:259][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.10.14-19.47.26:260][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.14-19.47.26:260][632]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.14-19.47.26:260][632]LogAudio: Display: Audio Device (ID: 5) registered with world 'Dev_Level'.
+[2024.10.14-19.47.26:260][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.14-19.47.26:260][632]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.14-19.47.26:262][632]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-19.47.26:263][632]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-20.47.26
+[2024.10.14-19.47.26:263][632]LogWorld: Bringing up level for play took: 0.000517
+[2024.10.14-19.47.26:264][632]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.10.14-19.47.26:265][632]PIE: Server logged in
+[2024.10.14-19.47.26:266][632]PIE: Play in editor total start time 0.092 seconds.
+[2024.10.14-19.47.26:282][633]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-19.47.32:282][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.47.32:282][327]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.47.32:282][327]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.47.32:282][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.47.32:284][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-19.47.32:286][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.47.32:295][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.47.32:295][327]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.14-19.47.32:295][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.14-19.47.32:296][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.14-19.47.32:305][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-19.47.32:356][332]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.10.14-19.47.33:032][410]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons
+[2024.10.14-19.47.36:785][840]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin_DK) ...
+[2024.10.14-19.47.36:802][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: ================================================
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: Total job queries 18, among them cache hits 0 (0.00%)
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: Tracking 18 distinct input hashes that result in 15 distinct outputs (83.33%)
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: RAM used: 400.17 KiB of 1.60 GiB budget. Usage: 0.02%
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.10.14-19.47.36:935][842]LogShaderCompilers: Display: ================================================
+[2024.10.14-19.47.37:757][937]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.14-19.47.37:786][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.47.41:208][330]LogSlate: Took 0.007694 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.14-19.47.41:761][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.14-19.47.41:764][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.47.41:793][385]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons
+[2024.10.14-19.47.41:794][385]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/DT_MeleeWeaponsB238627E4C6E0CABD78D60907D29D7D5.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.uasset'
+[2024.10.14-19.47.41:801][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 1.54 sec)
+[2024.10.14-19.47.41:803][385]AssetCheck: New page: Asset Save: DT_MeleeWeapons
+[2024.10.14-19.47.41:803][385]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons
+[2024.10.14-19.47.43:586][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-19.47.43:592][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-19.47.43:592][586]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 21:47:43)
+[2024.10.14-19.47.43:620][586]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.47.43:621][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001518s)
+[2024.10.14-19.47.43:621][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001568s)
+[2024.10.14-19.47.43:632][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.14-19.47.43:633][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.47.43:633][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.47.43:634][586]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-19.47.43:634][586]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2024.10.14-19.47.43:634][586]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.14-19.47.43:634][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-19.47.43:634][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-19.47.43:634][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-19.47.43:634][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-19.47.43:634][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-19.47.43:634][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-19.47.43:634][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-19.47.43:634][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-19.47.43:634][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-19.47.43:634][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-19.47.43:634][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-19.47.43:636][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-19.47.43:656][586]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.14-19.47.43:656][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-19.47.43:656][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-19.47.43:656][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-19.47.43:657][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.14-19.47.43:657][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2024.10.14-19.47.43:658][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.14-19.47.43:658][586]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.14-19.47.43:658][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.14-19.47.43:658][586]LogAudio: Display: Audio Device (ID: 6) registered with world 'Dev_Level'.
+[2024.10.14-19.47.43:658][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.14-19.47.43:660][586]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-19.47.43:660][586]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-20.47.43
+[2024.10.14-19.47.43:661][586]LogWorld: Bringing up level for play took: 0.000499
+[2024.10.14-19.47.43:662][586]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.10.14-19.47.43:663][586]PIE: Server logged in
+[2024.10.14-19.47.43:664][586]PIE: Play in editor total start time 0.072 seconds.
+[2024.10.14-19.47.43:732][588]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-19.47.47:561][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.47.47:561][ 40]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.47.47:561][ 40]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.47.47:562][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.47.47:564][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-19.47.47:566][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.47.47:573][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.47.47:574][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.14-19.47.47:574][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.14-19.47.47:575][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.14-19.47.47:581][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-19.47.47:620][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.10.14-19.47.47:945][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.14-19.48.11:879][852]BlueprintLog: New page: Compile BPC_AttachWeapon
+[2024.10.14-19.48.11:939][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.14-19.48.12:837][936]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-19.48.12:843][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-19.48.12:843][936]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 21:48:12)
+[2024.10.14-19.48.12:868][936]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.48.12:870][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2024.10.14-19.48.12:870][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001660s)
+[2024.10.14-19.48.12:877][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.14-19.48.12:879][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.48.12:879][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.48.12:879][936]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-19.48.12:879][936]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2024.10.14-19.48.12:879][936]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.14-19.48.12:879][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-19.48.12:879][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-19.48.12:879][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-19.48.12:879][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-19.48.12:879][936]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-19.48.12:879][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-19.48.12:879][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-19.48.12:879][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-19.48.12:880][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-19.48.12:880][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-19.48.12:880][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-19.48.12:881][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-19.48.12:900][936]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.14-19.48.12:900][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-19.48.12:900][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-19.48.12:900][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-19.48.12:901][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.14-19.48.12:901][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2024.10.14-19.48.12:902][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.14-19.48.12:902][936]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.14-19.48.12:902][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.10.14-19.48.12:902][936]LogAudio: Display: Audio Device (ID: 7) registered with world 'Dev_Level'.
+[2024.10.14-19.48.12:902][936]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.14-19.48.12:904][936]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-19.48.12:905][936]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-20.48.12
+[2024.10.14-19.48.12:905][936]LogWorld: Bringing up level for play took: 0.000508
+[2024.10.14-19.48.12:906][936]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.10.14-19.48.12:907][936]PIE: Server logged in
+[2024.10.14-19.48.12:907][936]PIE: Play in editor total start time 0.065 seconds.
+[2024.10.14-19.48.12:977][938]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-19.48.22:678][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.48.22:678][ 91]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.48.22:678][ 91]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.48.22:679][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.48.22:682][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-19.48.22:684][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.48.22:694][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.48.22:694][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.14-19.48.22:695][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.14-19.48.22:696][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.14-19.48.22:701][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-19.48.22:739][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.10.14-19.48.23:141][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.14-19.48.23:145][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.48.23:178][140]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Components/BPC_AttachWeapon
+[2024.10.14-19.48.23:179][140]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_AttachWeaponB1B023B746104057231384B8DD42EADF.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Components/BPC_AttachWeapon.uasset'
+[2024.10.14-19.48.23:189][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.59 sec)
+[2024.10.14-19.48.23:191][140]AssetCheck: New page: Asset Save: BPC_AttachWeapon
+[2024.10.14-19.48.23:191][140]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Components/BPC_AttachWeapon.BPC_AttachWeapon
+[2024.10.14-19.50.22:128][251]LogSlate: Took 0.006045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.14-19.50.22:135][251]LogViewport: Scene viewport resized to 1430x906, mode Windowed.
+[2024.10.14-19.50.24:555][510]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.50.24:555][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.51.20:316][288]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Weapons/Melee/Structs_Tables/Struct_MeleeWeapons.Struct_MeleeWeapons
+[2024.10.14-19.51.48:638][664]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.51.48:669][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.14-19.51.55:506][449]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Combat/Weapons/Enums/Enum_Weapon_Names.Enum_Weapon_Names
+[2024.10.14-19.51.59:191][827]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.10.14-19.52.05:390][468]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.10.14-19.52.06:787][563]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.10.14-19.52.06:793][563]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.10.14-19.52.09:216][846]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.52.09:223][846]LogClass: Warning: Type mismatch in WeaponName of BP_WeaponParent_C - Previous (NameProperty) Current(ByteProperty) for package:  FObjectReader
+[2024.10.14-19.52.09:243][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-19.52.18:393][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.14-19.52.18:397][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.52.18:425][898]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Components/BPC_AttachWeapon
+[2024.10.14-19.52.18:425][898]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_AttachWeapon32DFAD6A4ACB9F40548384B59F18537A.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Components/BPC_AttachWeapon.uasset'
+[2024.10.14-19.52.18:487][898]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.14-19.52.18:487][898]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent82014092429B8C7395E3FBB5499C79D7.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.14-19.52.18:496][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.69 sec)
+[2024.10.14-19.52.18:499][898]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.14-19.52.18:499][898]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Components/BPC_AttachWeapon.BPC_AttachWeapon
+[2024.10.14-19.52.18:499][898]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.14-19.52.49:438][165]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Weapons/Interfaces/BPI_Melee.BPI_Melee
+[2024.10.14-19.52.49:438][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.52.49:439][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.53.01:302][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-19.53.01:306][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.53.01:402][551]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.14-19.53.01:403][551]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParentF7700B7E46AABCE8862BC4988298BC79.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.14-19.53.01:414][551]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Interfaces/BPI_Melee
+[2024.10.14-19.53.01:414][551]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPI_Melee6608220A43D63E6FD9117384B2C2FE9B.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Interfaces/BPI_Melee.uasset'
+[2024.10.14-19.53.01:422][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.80 sec)
+[2024.10.14-19.53.01:424][551]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.14-19.53.01:424][551]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.14-19.53.01:424][551]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Interfaces/BPI_Melee.BPI_Melee
+[2024.10.14-19.53.01:704][584]BlueprintLog: New page: Compile BPI_Melee
+[2024.10.14-19.53.01:716][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.14-19.53.03:712][814]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.53.03:719][814]LogBlueprint: Error: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Weapons\BPs\BP_WeaponParent.uasset: [Compiler] Character Name  of type Name doesn't match the property CharacterName of type ByteProperty
+[2024.10.14-19.53.03:739][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-19.53.27:874][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.14-19.53.27:877][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.53.27:957][485]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.14-19.53.27:957][485]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent42147F134B8324D881E186BE77EAFC14.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.14-19.53.27:965][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.89 sec)
+[2024.10.14-19.53.27:967][485]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.14-19.53.27:967][485]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.14-19.54.07:445][ 61]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.54.07:448][ 61]LogBlueprint: Error: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Combat\Weapons\BPs\BP_WeaponParent.uasset: [Compiler] 'Example' row name is not stored in 'DataTable /Game/Combat/Weapons/Melee/Structs_Tables/DT_MeleeWeapons.DT_MeleeWeapons'.  Get Data Table Row DT_MeleeWeapons
+[2024.10.14-19.54.07:467][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.14-19.54.16:245][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.14-19.54.16:249][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.54.16:335][ 60]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.14-19.54.16:335][ 60]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent611EC29441908D05D2DD8CAC07588608.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.14-19.54.16:343][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.99 sec)
+[2024.10.14-19.54.16:345][ 60]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.14-19.54.16:345][ 60]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.14-19.54.16:758][109]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.54.16:781][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.14-19.55.01:960][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.14-19.55.01:965][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.55.02:050][414]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.14-19.55.02:051][414]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParentE01C0F7E48210F4E45E847AEB908DAB0.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.14-19.55.02:059][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 2.08 sec)
+[2024.10.14-19.55.02:060][414]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.14-19.55.02:060][414]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.14-19.55.02:256][435]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.55.02:287][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.14-19.55.09:829][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.14-19.55.09:834][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.14-19.55.09:921][302]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.14-19.55.09:922][302]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent694CC1E04C8111BC8F2942BDF52E15D3.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.14-19.55.09:929][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 2.18 sec)
+[2024.10.14-19.55.09:931][302]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.14-19.55.09:931][302]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.14-19.55.10:288][345]BlueprintLog: New page: Compile BP_WeaponParent
+[2024.10.14-19.55.10:313][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.14-19.55.15:202][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.14-19.55.15:735][975]BlueprintLog: New page: Compile BPC_AttachWeapon
+[2024.10.14-19.55.15:758][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.14-19.56.51:970][912]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.14-19.56.51:974][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.14-19.56.51:974][912]PIE: New page: PIE session: Dev_Level (14 Oct 2024, 21:56:51)
+[2024.10.14-19.56.52:023][912]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.56.52:025][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001651s)
+[2024.10.14-19.56.52:025][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001699s)
+[2024.10.14-19.56.52:033][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.14-19.56.52:035][912]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.14-19.56.52:035][912]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.14-19.56.52:036][912]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.14-19.56.52:036][912]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2024.10.14-19.56.52:036][912]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.14-19.56.52:036][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.14-19.56.52:036][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.14-19.56.52:036][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.14-19.56.52:036][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.14-19.56.52:036][912]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.14-19.56.52:036][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.14-19.56.52:036][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.14-19.56.52:036][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.14-19.56.52:036][912]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.14-19.56.52:036][912]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.14-19.56.52:036][912]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.14-19.56.52:039][912]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.14-19.56.52:058][912]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.14-19.56.52:059][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.14-19.56.52:059][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.14-19.56.52:059][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.14-19.56.52:059][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.10.14-19.56.52:059][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2024.10.14-19.56.52:061][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.10.14-19.56.52:061][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.10.14-19.56.52:061][912]LogInit: FAudioDevice initialized with ID 8.
+[2024.10.14-19.56.52:061][912]LogAudio: Display: Audio Device (ID: 8) registered with world 'Dev_Level'.
+[2024.10.14-19.56.52:061][912]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.14-19.56.52:063][912]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.14-19.56.52:064][912]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.14-20.56.52
+[2024.10.14-19.56.52:064][912]LogWorld: Bringing up level for play took: 0.000597
+[2024.10.14-19.56.52:066][912]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.10.14-19.56.52:066][912]PIE: Server logged in
+[2024.10.14-19.56.52:067][912]PIE: Play in editor total start time 0.093 seconds.
+[2024.10.14-19.56.52:082][913]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.14-19.56.53:085][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.56.53:085][ 21]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.14-19.56.53:085][ 21]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.14-19.56.53:085][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.56.53:088][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.14-19.56.53:091][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.14-19.56.53:099][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.14-19.56.53:099][ 21]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.14-19.56.53:099][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.14-19.56.53:101][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.14-19.56.53:109][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.14-19.56.53:155][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_28
