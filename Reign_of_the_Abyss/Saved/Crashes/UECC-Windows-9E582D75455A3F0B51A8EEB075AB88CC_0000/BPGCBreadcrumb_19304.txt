@@ -1,0 +1,2 @@
+/Game/Player/BPs/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:BPC_Spells_GEN_VARIABLE
+/Game/Combat/Ranged/Components/BPC_Spells.BPC_Spells_C
