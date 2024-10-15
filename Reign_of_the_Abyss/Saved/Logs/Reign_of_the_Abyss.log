@@ -1536,3 +1536,503 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.15-08.14.18:941][229]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Combat/Weapons/BPs/BP_WeaponParent_Auto1
 [2024.10.15-08.14.18:942][229]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent_Auto1C77CA6CB498E3201A210A489DA229CE0.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Autosaves/Game/Combat/Weapons/BPs/BP_WeaponParent_Auto1.uasset'
 [2024.10.15-08.14.18:943][229]LogFileHelpers: Auto-saving content packages took 0.078
+[2024.10.15-08.56.25:265][964]LogSlate: Window 'DT_Ranged_Weapons' being destroyed
+[2024.10.15-08.56.25:271][964]LogSlate: Window 'DT_Ranged_Weapons' being destroyed
+[2024.10.15-08.56.27:156][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.10.15-08.56.27:161][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.56.27:196][182]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/BPs/BP_WeaponParent
+[2024.10.15-08.56.27:197][182]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_WeaponParent7E93F8554689219F393DE7A8F093103C.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset'
+[2024.10.15-08.56.27:204][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 898 ms)
+[2024.10.15-08.56.27:205][182]AssetCheck: New page: Asset Save: BP_WeaponParent
+[2024.10.15-08.56.27:205][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/BPs/BP_WeaponParent.BP_WeaponParent
+[2024.10.15-08.56.34:409][ 44]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-08.56.34:409][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.56.39:529][620]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Combat/Ranged/Interfaces/BPI_Has_Ranged_Attack.BPI_Has_Ranged_Attack_C:Get Current Spell:Spell'. Unknown structure.
+[2024.10.15-08.56.39:540][620]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Combat/Ranged/Projectiles/Interfaces/BPI_Spell.BPI_Spell_C:Get Spell Info:Spell Info'. Unknown structure.
+[2024.10.15-08.56.39:622][620]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Combat/Ranged/Components/BPC_Spells.BPC_Spells_C:Spells.Spells'. Unknown structure.
+[2024.10.15-08.56.39:622][620]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Combat/Ranged/Components/BPC_Spells.BPC_Spells_C:Current Spell'. Unknown structure.
+[2024.10.15-08.56.39:622][620]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Combat/Ranged/Components/BPC_Spells.BPC_Spells_C:Previous Spell:CallFunc_Array_Get_Item'. Unknown structure.
+[2024.10.15-08.56.39:622][620]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/Combat/Ranged/Components/BPC_Spells.BPC_Spells_C:Next Spell:CallFunc_Array_Get_Item'. Unknown structure.
+[2024.10.15-08.56.39:622][620]LogClass: Warning: Property Current Spell of Current Spell has a struct type mismatch (tag STRUCT_REINST_Struct_Spell_50 != prop FallbackStruct) in package:  /Game/Combat/Ranged/Components/BPC_Spells. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2024.10.15-08.56.39:625][620]LogClass: Warning: Array Property Spells of Spells contains a struct type mismatch (tag FallbackStruct != prop Struct_Spell) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2024.10.15-08.56.39:625][620]LogClass: Warning: Property Current Spell of Current Spell has a struct type mismatch (tag FallbackStruct != prop Struct_Spell) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2024.10.15-08.56.40:626][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.Manny_calf_l_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim 8E2B50DD07CBD0EC07FCDD7DE6C03CCF vs CC78212CC2D05F60DB49B336943F61D9
+[2024.10.15-08.56.40:630][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.Manny_calf_r_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim 7894484DF77F696ECE86F5E48B21970F vs 8FE1687880D683625E543FF1464725DB
+[2024.10.15-08.56.40:634][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.Manny_clavicle_l_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim 6CEA229F225BD38F08A7E79F1708B2C3 vs 85F8EF1345C47A8C9C76736EC7A3FE90
+[2024.10.15-08.56.40:637][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.Manny_clavicle_r_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim 5011953F65839BC59E3AB711A254A94E vs ADA1E6650A76F8713148B97EF6AF9A89
+[2024.10.15-08.56.40:641][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.Manny_foot_l_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim E1CD278520DDF4FB187D1CBC17C34C12 vs 27DE3409653F529F13DE46FBC2B19C83
+[2024.10.15-08.56.40:644][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.Manny_foot_r_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim 9B48B63BBAECCB8F6D4567982FCD3450 vs 73E77D69CA585135BF157B81788D5D86
+[2024.10.15-08.56.40:647][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.Manny_hand_l_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim 9B42FC91272EF6C74D20196D6DFE60F4 vs AB6FD63C9D139264C0008EDBECC735F0
+[2024.10.15-08.56.40:651][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.Manny_hand_r_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim 23D2F7543DE7F7C42CEDA5C43C0F6FB1 vs 93329CC316356DE7E397D2DEB2E3AFD1
+[2024.10.15-08.56.40:655][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.Manny_lowerarm_l_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim C5886899902BFF210DE43F818588A597 vs 011865FD95B823CF80CFFC7D480E61C6
+[2024.10.15-08.56.40:658][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.Manny_lowerarm_r_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim 875F291D3A6E3ECDAF9BE4BCE6F094DD vs 1BB05015D9BFA1ECD7E35B013381E1BD
+[2024.10.15-08.56.40:661][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.Manny_thigh_l_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim 44456FC574BD040D2281CA549C0C8191 vs 4CB65F0128C1D0D989355D4955DCE16F
+[2024.10.15-08.56.40:665][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.Manny_thigh_r_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim 364BC1D823C760EAFC55654DBF9144FE vs E90CD50BD93DFBC0B3D7B8B240DA9861
+[2024.10.15-08.56.40:668][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.Manny_upperarm_l_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim E74586CE1E5E44B3F8048DBFC7950641 vs 664563D92C58772CAB9EEAD42C191D1A
+[2024.10.15-08.56.40:671][620]LogAnimation: Warning: PoseAsset /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.Manny_upperarm_r_pose is out-of-date with its source animation /Game/_UE_Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim 63B9CCF17675B52E40416075E3A9DDE3 vs 9AAB8175306B1E429602738D99BAB05C
+[2024.10.15-08.56.40:685][620]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.10.15-08.56.40:935][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BPs/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.15-08.56.40:936][620]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.56.40:936][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-08.56.41:016][620]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.56.41:199][621]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.56.41:233][622]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.56.53:579][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.56.53:632][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy_C
+[2024.10.15-08.56.53:633][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy_C
+[2024.10.15-08.56.53:648][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy as actor: BP_TestEnemy_C /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.BP_TestEnemy_C_0
+[2024.10.15-08.56.53:653][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy as actor: BP_TestEnemy_C /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.BP_TestEnemy_C_0
+[2024.10.15-08.56.53:662][ 58]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.15-08.56.54:218][111]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy_C
+[2024.10.15-08.56.54:218][111]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy_C
+[2024.10.15-08.56.54:227][111]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy as actor: BP_TestEnemy_C /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.BP_TestEnemy_C_1
+[2024.10.15-08.56.54:230][111]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy as actor: BP_TestEnemy_C /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.BP_TestEnemy_C_1
+[2024.10.15-08.56.57:551][485]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-08.56.57:557][485]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.15-08.56.57:558][485]LogPlayLevel: [PlayLevel] Compiling BPC_LightAttacks before play...
+[2024.10.15-08.56.57:578][485]LogPlayLevel: [PlayLevel] Compiling BPI_Has_Weapon before play...
+[2024.10.15-08.56.57:598][485]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2024.10.15-08.56.57:621][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.15-08.56.57:623][485]LogPlayLevel: PlayLevel: Blueprint regeneration took 66 ms (3 blueprints)
+[2024.10.15-08.56.57:626][485]PIE: New page: PIE session: Dev_Level (15 Oct 2024, 10:56:57)
+[2024.10.15-08.56.57:631][485]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.15-08.56.57:631][485]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.10.15-08.56.57:634][485]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.56.57:635][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001874s)
+[2024.10.15-08.56.57:635][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001920s)
+[2024.10.15-08.56.57:645][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-08.56.57:647][485]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.56.57:647][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-08.56.57:647][485]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.15-08.56.57:647][485]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2024.10.15-08.56.57:647][485]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.15-08.56.57:647][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-08.56.57:647][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-08.56.57:647][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-08.56.57:647][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-08.56.57:647][485]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.15-08.56.57:647][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-08.56.57:647][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.15-08.56.57:647][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-08.56.57:648][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-08.56.57:648][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-08.56.57:648][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-08.56.57:649][485]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-08.56.57:671][485]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.15-08.56.57:671][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-08.56.57:671][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-08.56.57:671][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-08.56.57:671][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.15-08.56.57:671][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.10.15-08.56.57:673][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.15-08.56.57:673][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.15-08.56.57:673][485]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.15-08.56.57:673][485]LogAudio: Display: Audio Device (ID: 2) registered with world 'Dev_Level'.
+[2024.10.15-08.56.57:673][485]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.15-08.56.57:695][485]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.15-08.56.57:699][485]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.15-09.56.57
+[2024.10.15-08.56.57:704][485]LogWorld: Bringing up level for play took: 0.008612
+[2024.10.15-08.56.57:705][485]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.10.15-08.56.57:714][485]PIE: Server logged in
+[2024.10.15-08.56.57:714][485]PIE: Play in editor total start time 0.158 seconds.
+[2024.10.15-08.56.57:753][486]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.15-08.56.57:767][486]LogSlate: New Slate User Created. Platform User Id 1, User Index 1, Is Virtual User: 0
+[2024.10.15-08.56.57:767][486]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2024.10.15-08.57.05:097][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.57.05:098][353]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.57.05:098][353]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-08.57.05:098][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.57.05:102][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-08.57.05:104][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.57.05:111][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.57.05:112][353]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.15-08.57.05:112][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.15-08.57.05:114][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.15-08.57.05:122][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.15-08.57.05:189][354]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.10.15-08.57.05:807][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.15-08.57.05:811][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.57.05:861][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.15-08.57.05:868][423]LogSavePackage: Moving output files for package: /Game/Levels_Maps/Dev_Level
+[2024.10.15-08.57.05:868][423]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Dev_Level6B551FAD4855362F218C63BBC5EB5A41.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap'
+[2024.10.15-08.57.05:872][423]LogFileHelpers: Saving map 'Dev_Level' took 0.035
+[2024.10.15-08.57.05:882][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 969 ms)
+[2024.10.15-08.57.05:884][423]AssetCheck: New page: Asset Save: Dev_Level
+[2024.10.15-08.57.05:884][423]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
+[2024.10.15-08.57.15:051][500]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Combat/Weapons/Components/BPC_AttachWeapon.BPC_AttachWeapon
+[2024.10.15-08.57.15:051][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.57.15:051][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-08.57.28:418][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-08.57.28:421][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.57.28:454][ 65]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Components/BPC_AttachWeapon
+[2024.10.15-08.57.28:454][ 65]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BPC_AttachWeaponCB3E0DBD46A1B0413FB5F78F1BFA4CBD.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Components/BPC_AttachWeapon.uasset'
+[2024.10.15-08.57.28:461][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.00 sec)
+[2024.10.15-08.57.28:462][ 65]AssetCheck: New page: Asset Save: BPC_AttachWeapon
+[2024.10.15-08.57.28:462][ 65]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Combat/Weapons/Components/BPC_AttachWeapon.BPC_AttachWeapon
+[2024.10.15-08.57.29:211][154]BlueprintLog: New page: Compile BPC_AttachWeapon
+[2024.10.15-08.57.29:231][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.15-08.57.36:529][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-08.57.36:533][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.57.36:556][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.57.36:628][995]LogSavePackage: Moving output files for package: /Game/Player/BPs/BP_ThirdPersonCharacter
+[2024.10.15-08.57.36:628][995]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/BP_ThirdPersonCharacterDFDEA31243B53BE69A7A6599F9206361.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset'
+[2024.10.15-08.57.36:635][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.11 sec)
+[2024.10.15-08.57.36:637][995]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.15-08.57.36:637][995]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BPs/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.10.15-08.57.36:637][995]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Player/BPs/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C_4
+[2024.10.15-08.57.37:011][ 40]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.10.15-08.57.37:030][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'pelvis' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_03' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_04' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_05' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_l' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_l' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_l' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'lowerarm_r' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'hand_r' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_r' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_l' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_l' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'foot_l' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'spine_02' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_01' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'neck_02' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'head' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_r' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'clavicle_l' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'upperarm_r' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'thigh_r' 
+[2024.10.15-08.57.37:033][ 40]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0' Bone: 'calf_r' 
+[2024.10.15-08.57.37:052][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-08.57.41:650][560]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Combat/Weapons/Struct_Tables/DT_Weapon_Info.DT_Weapon_Info
+[2024.10.15-08.57.44:388][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.57.47:453][192]LogStaticMesh: Display: Building static mesh Staff...
+[2024.10.15-08.57.47:460][192]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Roughness.Material_001_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 315.645823 MB), EncodeSpeed: Fast
+[2024.10.15-08.57.47:460][192]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Alpha.Material_001_Alpha (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 315.645823 MB), EncodeSpeed: Fast
+[2024.10.15-08.57.47:466][192]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Emission.Material_001_Emission (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 315.645823 MB), EncodeSpeed: Fast
+[2024.10.15-08.57.47:515][192]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_BaseColor.Material_001_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 327.645823 MB), EncodeSpeed: Fast
+[2024.10.15-08.57.47:523][192]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.57.47:533][193]LogTexture: Display: Building textures: /Game/Assets/Materials/Ranged/Material_001_Normal.Material_001_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 516.562488 MB), EncodeSpeed: Fast
+[2024.10.15-08.57.48:736][323]LogShaderCompilers: Display: ================================================
+[2024.10.15-08.57.48:736][323]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.15-08.57.48:736][323]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2024.10.15-08.57.48:736][323]LogShaderCompilers: Display: Tracking 7 distinct input hashes that result in 7 distinct outputs (100.00%)
+[2024.10.15-08.57.48:736][323]LogShaderCompilers: Display: RAM used: 145.09 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Jobs assigned 4, completed 3 (75.00%)
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 1.14 s
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Job life time (pending + execution): average 1.15 s, max 1.15
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Shader code size: average 34.728 KiB, min 33.133 KiB, max 35.664 KiB
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.15 s
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Average processing rate: 2.61 jobs/sec
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Total thread time: 1.511 s
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Total thread preprocess time: 1.196 s
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Percentage time preprocessing: 79.11%
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 14
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.83% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display:                                                 FLumenCardVS - 34.58% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 30.59% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.10.15-08.57.48:737][323]LogShaderCompilers: Display: ================================================
+[2024.10.15-08.57.51:503][633]LogSlate: Took 0.007964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.10.15-08.57.51:959][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.15-08.57.51:962][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.57.51:989][681]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Struct_Tables/DT_Weapon_Info
+[2024.10.15-08.57.51:989][681]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/DT_Weapon_InfoB344AAFA4E0D4573A9B2F1AFDB508A3E.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Struct_Tables/DT_Weapon_Info.uasset'
+[2024.10.15-08.57.51:995][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1.14 sec)
+[2024.10.15-08.57.51:997][681]AssetCheck: New page: Asset Save: DT_Weapon_Info
+[2024.10.15-08.57.51:997][681]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Combat/Weapons/Struct_Tables/DT_Weapon_Info.DT_Weapon_Info
+[2024.10.15-08.57.52:893][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.57.52:913][785]LogSavePackage: Moving output files for package: /Game/Combat/Weapons/Struct_Tables/DT_Weapon_Info
+[2024.10.15-08.57.52:913][785]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/DT_Weapon_InfoB4E787CB45E4BD890DEB4095AE36FCDE.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Struct_Tables/DT_Weapon_Info.uasset'
+[2024.10.15-08.57.52:919][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 26 ms (total: 1.17 sec)
+[2024.10.15-08.57.52:920][785]AssetCheck: New page: Asset Save: DT_Weapon_Info
+[2024.10.15-08.57.52:920][785]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Combat/Weapons/Struct_Tables/DT_Weapon_Info.DT_Weapon_Info
+[2024.10.15-08.57.54:686][962]LogSlate: Window 'DT_Weapon_Info' being destroyed
+[2024.10.15-08.57.55:647][ 75]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-08.57.55:651][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-08.57.55:651][ 75]PIE: New page: PIE session: Dev_Level (15 Oct 2024, 10:57:55)
+[2024.10.15-08.57.55:677][ 75]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.57.55:679][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001866s)
+[2024.10.15-08.57.55:679][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.001903s)
+[2024.10.15-08.57.55:684][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.15-08.57.55:686][ 75]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.57.55:686][ 75]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-08.57.55:686][ 75]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.15-08.57.55:687][ 75]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2024.10.15-08.57.55:687][ 75]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.15-08.57.55:687][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-08.57.55:687][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-08.57.55:687][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-08.57.55:687][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-08.57.55:687][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.15-08.57.55:687][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-08.57.55:687][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.15-08.57.55:687][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-08.57.55:687][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-08.57.55:687][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-08.57.55:687][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-08.57.55:689][ 75]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-08.57.55:707][ 75]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.15-08.57.55:708][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-08.57.55:708][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-08.57.55:708][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-08.57.55:708][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.15-08.57.55:708][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.10.15-08.57.55:710][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.15-08.57.55:710][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.15-08.57.55:710][ 75]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.15-08.57.55:710][ 75]LogAudio: Display: Audio Device (ID: 3) registered with world 'Dev_Level'.
+[2024.10.15-08.57.55:710][ 75]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.15-08.57.55:711][ 75]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.15-08.57.55:715][ 75]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.15-09.57.55
+[2024.10.15-08.57.55:715][ 75]LogWorld: Bringing up level for play took: 0.003824
+[2024.10.15-08.57.55:717][ 75]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.10.15-08.57.55:718][ 75]PIE: Server logged in
+[2024.10.15-08.57.55:719][ 75]PIE: Play in editor total start time 0.067 seconds.
+[2024.10.15-08.57.55:788][ 77]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.15-08.57.59:378][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.57.59:378][501]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.57.59:379][501]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-08.57.59:379][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.57.59:381][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-08.57.59:383][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.57.59:391][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.15-08.57.59:393][501]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.15-08.57.59:393][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.15-08.57.59:395][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.15-08.57.59:398][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.57.59:401][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-08.57.59:469][502]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.10.15-08.58.00:000][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-08.58.03:972][ 20]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.03:988][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.58.03:988][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-08.58.04:414][ 20]LogViewport: Scene viewport resized to 1405x942, mode Windowed.
+[2024.10.15-08.58.05:920][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.05:922][181]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.05:922][181]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff as actor: StaticMeshActor /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.StaticMeshActor_0
+[2024.10.15-08.58.06:261][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.06:261][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.06:262][217]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff as actor: StaticMeshActor /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.StaticMeshActor_2
+[2024.10.15-08.58.25:615][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.15-08.58.25:619][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.58.25:664][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.15-08.58.25:673][501]LogSavePackage: Moving output files for package: /Game/Levels_Maps/Dev_Level
+[2024.10.15-08.58.25:673][501]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Dev_Level9085F0494FBAEF456701C09A4F41C569.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap'
+[2024.10.15-08.58.25:677][501]LogFileHelpers: Saving map 'Dev_Level' took 0.029
+[2024.10.15-08.58.25:682][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.23 sec)
+[2024.10.15-08.58.25:683][501]AssetCheck: New page: Asset Save: Dev_Level
+[2024.10.15-08.58.25:683][501]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
+[2024.10.15-08.58.31:489][197]LogStaticMesh: Display: Building static mesh Staff...
+[2024.10.15-08.58.31:506][197]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Static_Meshes/Ranged/Staff) ...
+[2024.10.15-08.58.31:509][197]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.37:821][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.15-08.58.37:824][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.58.37:872][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.15-08.58.37:880][942]LogSavePackage: Moving output files for package: /Game/Levels_Maps/Dev_Level
+[2024.10.15-08.58.37:880][942]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Dev_Level68F6A8444E0F3A9EC38A86B112ED1A0C.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap'
+[2024.10.15-08.58.37:884][942]LogFileHelpers: Saving map 'Dev_Level' took 0.031
+[2024.10.15-08.58.37:897][942]LogSavePackage: Moving output files for package: /Game/Assets/Static_Meshes/Ranged/Staff
+[2024.10.15-08.58.37:898][942]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/StaffD927D75843B421F8F50DE7BC2200A1CF.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Static_Meshes/Ranged/Staff.uasset'
+[2024.10.15-08.58.37:904][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.31 sec)
+[2024.10.15-08.58.37:905][942]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.15-08.58.37:905][942]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
+[2024.10.15-08.58.37:905][942]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.56:406][ 80]LogStaticMesh: Display: Building static mesh Staff...
+[2024.10.15-08.58.56:424][ 80]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Static_Meshes/Ranged/Staff) ...
+[2024.10.15-08.58.56:425][ 80]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.56:427][ 80]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.916 Y=-0.040 Z=35.236, BoxExtent=(X=14.443 Y=6.295 Z=99.577), SphereRadius=(100.815771)) and MeshDescription Bounds (Origin=X=-9.833 Y=-0.080 Z=70.471, BoxExtent=(X=28.886 Y=12.590 Z=199.154), SphereRadius=(199.485818)) is significative for StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.58.57:164][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-08.58.57:168][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-08.58.57:168][160]PIE: New page: PIE session: Dev_Level (15 Oct 2024, 10:58:57)
+[2024.10.15-08.58.57:207][160]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.58.57:210][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2024.10.15-08.58.57:210][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.002276s)
+[2024.10.15-08.58.57:218][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-08.58.57:220][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.58.57:220][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-08.58.57:220][160]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.15-08.58.57:220][160]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2024.10.15-08.58.57:220][160]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.15-08.58.57:221][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-08.58.57:221][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-08.58.57:221][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-08.58.57:221][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-08.58.57:221][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.15-08.58.57:221][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-08.58.57:221][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.15-08.58.57:221][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-08.58.57:221][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-08.58.57:221][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-08.58.57:221][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-08.58.57:223][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-08.58.57:242][160]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.15-08.58.57:242][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-08.58.57:242][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-08.58.57:242][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-08.58.57:243][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.15-08.58.57:243][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.10.15-08.58.57:244][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.15-08.58.57:244][160]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.15-08.58.57:244][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.15-08.58.57:244][160]LogAudio: Display: Audio Device (ID: 4) registered with world 'Dev_Level'.
+[2024.10.15-08.58.57:244][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.15-08.58.57:245][160]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.15-08.58.57:250][160]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.15-09.58.57
+[2024.10.15-08.58.57:250][160]LogWorld: Bringing up level for play took: 0.004096
+[2024.10.15-08.58.57:252][160]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.10.15-08.58.57:253][160]PIE: Server logged in
+[2024.10.15-08.58.57:253][160]PIE: Play in editor total start time 0.085 seconds.
+[2024.10.15-08.58.57:271][161]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.15-08.58.59:308][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.58.59:309][396]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.58.59:309][396]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-08.58.59:309][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.58.59:312][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-08.58.59:314][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.58.59:319][396]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.15-08.58.59:321][396]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.15-08.58.59:321][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.15-08.58.59:322][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.15-08.58.59:326][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.58.59:328][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-08.58.59:401][398]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.10.15-08.59.04:903][ 43]LogStaticMesh: Display: Building static mesh Staff...
+[2024.10.15-08.59.04:920][ 43]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Static_Meshes/Ranged/Staff) ...
+[2024.10.15-08.59.04:921][ 43]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.04:923][ 43]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.916 Y=-0.040 Z=1.736, BoxExtent=(X=14.443 Y=6.295 Z=99.577), SphereRadius=(100.815771)) and MeshDescription Bounds (Origin=X=-9.833 Y=-0.080 Z=3.471, BoxExtent=(X=28.886 Y=12.590 Z=199.154), SphereRadius=(199.485818)) is significative for StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.34:801][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.34:801][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.34:801][688]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff as actor: StaticMeshActor /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.StaticMeshActor_3
+[2024.10.15-08.59.35:088][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.35:088][717]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.35:089][717]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff as actor: StaticMeshActor /Game/Levels_Maps/Dev_Level.Dev_Level:PersistentLevel.StaticMeshActor_4
+[2024.10.15-08.59.36:776][913]Cmd: DELETE
+[2024.10.15-08.59.36:777][913]Cmd: ACTOR DELETE
+[2024.10.15-08.59.36:785][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.15-08.59.36:793][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.15-08.59.36:795][913]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.10.15-08.59.48:415][290]LogStaticMesh: Display: Building static mesh Staff...
+[2024.10.15-08.59.48:432][290]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Static_Meshes/Ranged/Staff) ...
+[2024.10.15-08.59.48:434][290]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.48:436][290]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.916 Y=0.040 Z=12.764, BoxExtent=(X=14.443 Y=6.295 Z=99.577), SphereRadius=(100.815771)) and MeshDescription Bounds (Origin=X=-9.833 Y=0.080 Z=25.529, BoxExtent=(X=28.886 Y=12.590 Z=199.154), SphereRadius=(199.485818)) is significative for StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.48:866][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-08.59.48:870][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.59.48:914][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.15-08.59.48:921][336]LogSavePackage: Moving output files for package: /Game/Levels_Maps/Dev_Level
+[2024.10.15-08.59.48:922][336]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Dev_LevelCCD7E18346A9174CFC761EBFB2A009F3.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap'
+[2024.10.15-08.59.48:925][336]LogFileHelpers: Saving map 'Dev_Level' took 0.033
+[2024.10.15-08.59.48:955][336]LogSavePackage: Moving output files for package: /Game/Assets/Static_Meshes/Ranged/Staff
+[2024.10.15-08.59.48:956][336]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Staff6F4829094B6C212DBAEB5684AB3E212F.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Static_Meshes/Ranged/Staff.uasset'
+[2024.10.15-08.59.48:962][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.40 sec)
+[2024.10.15-08.59.48:964][336]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.15-08.59.48:964][336]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
+[2024.10.15-08.59.48:964][336]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Static_Meshes/Ranged/Staff.Staff
+[2024.10.15-08.59.49:421][389]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-08.59.49:425][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-08.59.49:425][389]PIE: New page: PIE session: Dev_Level (15 Oct 2024, 10:59:49)
+[2024.10.15-08.59.49:447][389]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.59.49:449][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2024.10.15-08.59.49:449][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.002014s)
+[2024.10.15-08.59.49:459][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.15-08.59.49:460][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-08.59.49:460][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-08.59.49:460][389]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.15-08.59.49:461][389]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2024.10.15-08.59.49:461][389]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.15-08.59.49:461][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-08.59.49:461][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-08.59.49:461][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-08.59.49:461][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-08.59.49:461][389]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.15-08.59.49:461][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-08.59.49:461][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.15-08.59.49:461][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-08.59.49:461][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-08.59.49:461][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-08.59.49:461][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-08.59.49:463][389]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-08.59.49:483][389]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.15-08.59.49:483][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-08.59.49:483][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-08.59.49:483][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-08.59.49:484][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.15-08.59.49:484][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.10.15-08.59.49:485][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.15-08.59.49:485][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.15-08.59.49:485][389]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.15-08.59.49:485][389]LogAudio: Display: Audio Device (ID: 5) registered with world 'Dev_Level'.
+[2024.10.15-08.59.49:485][389]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.15-08.59.49:487][389]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.15-08.59.49:491][389]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.15-09.59.49
+[2024.10.15-08.59.49:492][389]LogWorld: Bringing up level for play took: 0.003975
+[2024.10.15-08.59.49:493][389]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.10.15-08.59.49:494][389]PIE: Server logged in
+[2024.10.15-08.59.49:495][389]PIE: Play in editor total start time 0.07 seconds.
+[2024.10.15-08.59.49:564][391]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.15-08.59.52:939][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.59.52:939][789]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-08.59.52:939][789]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-08.59.52:940][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.59.52:943][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-08.59.52:945][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-08.59.52:951][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-08.59.52:951][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.15-08.59.52:951][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.15-08.59.52:953][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.15-08.59.52:958][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.15-08.59.53:031][791]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.10.15-08.59.53:480][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-08.59.56:770][201]Cmd: DELETE
+[2024.10.15-08.59.56:770][201]Cmd: ACTOR DELETE
+[2024.10.15-08.59.56:775][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.15-08.59.56:781][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.15-08.59.56:782][201]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.10.15-08.59.58:095][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.10.15-08.59.58:099][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-08.59.58:143][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.15-08.59.58:150][357]LogSavePackage: Moving output files for package: /Game/Levels_Maps/Dev_Level
+[2024.10.15-08.59.58:150][357]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Dev_LevelB156826746BA1EE8F9DF80A1F8D78E02.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap'
+[2024.10.15-08.59.58:155][357]LogFileHelpers: Saving map 'Dev_Level' took 0.029
+[2024.10.15-08.59.58:160][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.46 sec)
+[2024.10.15-08.59.58:161][357]AssetCheck: New page: Asset Save: Dev_Level
+[2024.10.15-08.59.58:161][357]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
+[2024.10.15-09.01.11:852][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.15-09.01.12:411][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-09.01.12:455][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.10.15-09.01.12:464][700]LogSavePackage: Moving output files for package: /Game/Levels_Maps/Dev_Level
+[2024.10.15-09.01.12:464][700]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Dev_Level649F011B47AB8A471E6296AC7357C21C.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap'
+[2024.10.15-09.01.12:468][700]LogFileHelpers: Saving map 'Dev_Level' took 0.030
+[2024.10.15-09.01.12:474][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.53 sec)
+[2024.10.15-09.01.12:475][700]AssetCheck: New page: Asset Save: Dev_Level
+[2024.10.15-09.01.12:475][700]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
