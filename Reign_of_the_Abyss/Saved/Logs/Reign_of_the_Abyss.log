@@ -2036,3 +2036,515 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.15-09.01.12:474][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.53 sec)
 [2024.10.15-09.01.12:475][700]AssetCheck: New page: Asset Save: Dev_Level
 [2024.10.15-09.01.12:475][700]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
+[2024.10.15-09.11.55:353][997]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12549 files in 14979 folders with total size 1270 MiB.
+[2024.10.15-10.11.55:349][795]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.135 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12549 files in 14979 folders with total size 1270 MiB.
+[2024.10.15-10.57.02:211][285]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2024.10.15-10.57.02:260][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-10.57.02:395][294]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-10.57.02:397][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-10.57.02:397][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-10.57.02:445][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-10.57.02:445][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-10.57.02:457][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.10.15-10.57.02:981][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-10.57.02:982][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-10.57.03:091][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-10.57.03:115][294]LogViewport: Scene viewport resized to 476x431, mode Windowed.
+[2024.10.15-10.57.04:983][481]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.10.15-10.57.16:293][758]LogSlate: Took 0.006161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.15-10.57.26:980][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.10.15-10.57.26:984][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-10.57.27:060][  1]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-10.57.27:061][  1]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerB7F74FC742103EFE3F7847BB8906945C.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-10.57.27:068][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.61 sec)
+[2024.10.15-10.57.27:071][  1]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-10.57.27:071][  1]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-10.57.27:957][106]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-10.57.28:010][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.15-10.57.48:289][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-10.57.48:293][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-10.57.48:371][454]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-10.57.48:371][454]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerF52209674D0914041E6A5189C0BF5310.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-10.57.48:379][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.70 sec)
+[2024.10.15-10.57.48:381][454]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-10.57.48:381][454]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-10.57.48:683][490]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-10.57.48:727][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-10.57.56:664][376]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.10.15-10.58.16:624][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.15-10.58.16:628][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-10.58.16:705][415]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-10.58.16:705][415]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player95A2107B453F65D1FFFAE0BB90DC4CE0.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-10.58.16:713][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.78 sec)
+[2024.10.15-10.58.16:715][415]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-10.58.16:715][415]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-10.58.16:865][431]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-10.58.16:909][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-10.58.42:248][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.15-10.58.42:252][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-10.58.42:321][192]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-10.58.42:322][192]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerF476A01E4A9D8594B040D38643E1D2C4.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-10.58.42:329][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.86 sec)
+[2024.10.15-10.58.42:331][192]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-10.58.42:332][192]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-10.58.48:629][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.15-10.58.48:633][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-10.58.48:709][888]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-10.58.48:709][888]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerC06B41714E75F4FB7AC6029A482436CD.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-10.58.48:715][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.94 sec)
+[2024.10.15-10.58.48:717][888]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-10.58.48:717][888]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-10.58.49:594][976]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-10.58.49:637][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-11.00.07:741][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-11.00.07:744][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.00.07:821][175]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.00.07:822][175]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player9E03428B447984FAC28260B89CC663A9.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.00.07:829][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.03 sec)
+[2024.10.15-11.00.07:831][175]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.00.07:831][175]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.00.08:232][218]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.00.08:275][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-11.00.19:292][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.15-11.00.19:296][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.00.19:372][485]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.00.19:373][485]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player54436BFF4B79E4E160926FB79208FD71.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.00.19:380][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.11 sec)
+[2024.10.15-11.00.19:382][485]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.00.19:383][485]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.00.19:636][515]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.00.19:680][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.15-11.00.38:735][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.15-11.00.38:740][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.00.38:823][652]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.00.38:823][652]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player643B9C164FD8E2C3D0FEEAA4650D9CD0.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.00.38:831][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.20 sec)
+[2024.10.15-11.00.38:833][652]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.00.38:833][652]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.00.39:359][712]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.00.39:403][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-11.01.03:797][597]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.01.03:848][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.15-11.01.15:058][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.15-11.01.15:062][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.01.15:142][901]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.01.15:143][901]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player7F9C7C2849D27F2AC4C755B687740DB4.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.01.15:151][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.29 sec)
+[2024.10.15-11.01.15:152][901]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.01.15:152][901]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.01.15:615][953]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.01.15:665][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.03.13:907][361]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::BooleanOR' [Element not found.]
+[2024.10.15-11.03.30:639][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.15-11.03.30:642][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.03.30:731][142]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.03.30:731][142]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerAE4C606848D4229B7BC2FC9A6F2F7868.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.03.30:742][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.39 sec)
+[2024.10.15-11.03.30:743][142]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.03.30:743][142]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.05.44:894][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.15-11.05.44:897][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.05.44:978][676]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.05.44:978][676]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerF038BB5542F76D1FB61990A319A37DF8.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.05.44:985][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 2.48 sec)
+[2024.10.15-11.05.44:987][676]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.05.44:987][676]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.05.47:844][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.10.15-11.05.47:848][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.05.47:932][  6]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.05.47:933][  6]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player2298142A42997A021E58C09223211A78.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.05.47:940][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.57 sec)
+[2024.10.15-11.05.47:941][  6]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.05.47:941][  6]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.05.49:515][185]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.05.49:525][185]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Advanced Movement  is not connected to state
+[2024.10.15-11.05.49:525][185]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Advanced Movement
+[2024.10.15-11.05.49:525][185]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Ranged  is not connected to state
+[2024.10.15-11.05.49:525][185]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Ranged
+[2024.10.15-11.05.49:525][185]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.05.49:526][185]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.05.49:526][185]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.05.49:565][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-11.05.53:785][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.15-11.05.54:604][764]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.05.54:613][764]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Advanced Movement  is not connected to state
+[2024.10.15-11.05.54:613][764]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Advanced Movement
+[2024.10.15-11.05.54:613][764]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Ranged  is not connected to state
+[2024.10.15-11.05.54:613][764]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Ranged
+[2024.10.15-11.05.54:615][764]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.05.54:615][764]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.05.54:615][764]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.05.54:653][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-11.05.57:244][ 48]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.15-11.05.57:248][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.15-11.05.57:249][ 48]PIE: New page: PIE session: Dev_Level (15 Oct 2024, 13:05:57)
+[2024.10.15-11.05.57:277][ 48]LogPlayLevel: Creating play world package: /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-11.05.57:279][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002359s)
+[2024.10.15-11.05.57:279][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels_Maps/Dev_Level.Dev_Level to /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level (0.002418s)
+[2024.10.15-11.05.57:287][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.15-11.05.57:291][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-11.05.57:291][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-11.05.57:291][ 48]LogAIModule: Creating AISystem for world Dev_Level
+[2024.10.15-11.05.57:291][ 48]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2024.10.15-11.05.57:291][ 48]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.15-11.05.57:292][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.15-11.05.57:292][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.15-11.05.57:292][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.15-11.05.57:292][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.15-11.05.57:292][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.15-11.05.57:292][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.15-11.05.57:292][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.15-11.05.57:292][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.15-11.05.57:292][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.15-11.05.57:292][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.15-11.05.57:292][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.15-11.05.57:293][ 48]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.15-11.05.57:312][ 48]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VIRTUOSO SE Wireless Gaming Headset)
+[2024.10.15-11.05.57:312][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.15-11.05.57:312][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.15-11.05.57:312][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.15-11.05.57:313][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.15-11.05.57:313][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2024.10.15-11.05.57:314][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.15-11.05.57:314][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.15-11.05.57:314][ 48]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.15-11.05.57:314][ 48]LogAudio: Display: Audio Device (ID: 6) registered with world 'Dev_Level'.
+[2024.10.15-11.05.57:314][ 48]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.15-11.05.57:319][ 48]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.10.15-11.05.57:323][ 48]LogWorld: Bringing World /Game/Levels_Maps/UEDPIE_0_Dev_Level.Dev_Level up for play (max tick rate 0) at 2024.10.15-12.05.57
+[2024.10.15-11.05.57:323][ 48]LogWorld: Bringing up level for play took: 0.004126
+[2024.10.15-11.05.57:325][ 48]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.10.15-11.05.57:326][ 48]PIE: Server logged in
+[2024.10.15-11.05.57:327][ 48]PIE: Play in editor total start time 0.079 seconds.
+[2024.10.15-11.05.57:345][ 49]LogPlayerManagement: Error: Failed to Create Player: A local player already exists for PlatformUserId 0,
+[2024.10.15-11.06.07:655][207]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-11.06.07:656][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-11.06.07:667][207]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-11.06.07:667][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-11.06.07:713][207]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-11.06.07:713][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-11.06.10:429][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-11.06.10:429][511]LogWorld: BeginTearingDown for /Game/Levels_Maps/UEDPIE_0_Dev_Level
+[2024.10.15-11.06.10:429][511]LogWorld: UWorld::CleanupWorld for Dev_Level, bSessionEnded=true, bCleanupResources=true
+[2024.10.15-11.06.10:429][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-11.06.10:432][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.15-11.06.10:435][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.15-11.06.10:443][511]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.15-11.06.10:444][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.15-11.06.10:444][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.15-11.06.10:445][511]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.15-11.06.10:452][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.15-11.06.10:455][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.15-11.06.10:526][512]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.10.15-11.06.11:104][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.15-11.06.11:341][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.06.11:383][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.15-11.06.11:391][603]LogSavePackage: Moving output files for package: /Game/Levels_Maps/Dev_Level
+[2024.10.15-11.06.11:391][603]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Dev_Level0DC5E6024A79DDFCEA59D0B736FB6B32.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap'
+[2024.10.15-11.06.11:395][603]LogFileHelpers: Saving map 'Dev_Level' took 0.030
+[2024.10.15-11.06.11:401][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.63 sec)
+[2024.10.15-11.06.11:402][603]AssetCheck: New page: Asset Save: Dev_Level
+[2024.10.15-11.06.11:402][603]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels_Maps/Dev_Level.Dev_Level
+[2024.10.15-11.11.55:291][159]LogDerivedDataCache: C:/Users/harry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12563 files in 14991 folders with total size 1270 MiB.
+[2024.10.15-11.43.32:414][241]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.43.32:414][241]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-11.43.32:414][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-11.43.32:422][241]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-11.43.32:422][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-11.43.32:427][241]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.10.15-11.43.32:604][241]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.15-11.43.32:604][241]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.15-11.43.32:724][241]LogViewport: Scene viewport resized to 476x431, mode Windowed.
+[2024.10.15-11.44.02:258][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.15-11.44.02:264][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.44.02:352][714]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.44.02:352][714]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player7C27F14541F6917471ABD59C18ED685F.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.44.02:360][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.72 sec)
+[2024.10.15-11.44.02:361][714]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.44.02:361][714]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.44.02:622][745]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.44.02:630][745]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Advanced Movement  is not connected to state
+[2024.10.15-11.44.02:631][745]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Advanced Movement
+[2024.10.15-11.44.02:631][745]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Ranged  is not connected to state
+[2024.10.15-11.44.02:631][745]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Ranged
+[2024.10.15-11.44.02:631][745]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.02:631][745]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.02:632][745]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.02:675][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-11.44.25:429][369]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.44.25:439][369]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Ranged  is not connected to state
+[2024.10.15-11.44.25:439][369]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Ranged
+[2024.10.15-11.44.25:439][369]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.25:439][369]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.25:439][369]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.25:490][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.15-11.44.34:974][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.44.34:979][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.44.35:066][445]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.44.35:067][445]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player5E9BE42F45CABE29ECD4EC897B796439.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.44.35:074][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.82 sec)
+[2024.10.15-11.44.35:075][445]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.44.35:075][445]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.44.42:390][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-11.44.42:395][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.44.42:483][318]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.44.42:483][318]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerD9D45F2E4EB69DF844C6518F321BB011.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.44.42:491][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 2.92 sec)
+[2024.10.15-11.44.42:493][318]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.44.42:493][318]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.44.43:145][389]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.44.43:154][389]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Ranged  is not connected to state
+[2024.10.15-11.44.43:155][389]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Ranged
+[2024.10.15-11.44.43:155][389]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.43:155][389]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.43:155][389]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.44.43:202][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-11.45.09:260][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-11.45.09:264][249]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.45.09:351][249]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.45.09:351][249]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player91E8222343DE02945E771FAA15C502F2.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.45.09:360][249]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 3.01 sec)
+[2024.10.15-11.45.09:363][249]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.45.09:363][249]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.45.09:773][295]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.45.09:782][295]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Ranged  is not connected to state
+[2024.10.15-11.45.09:782][295]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Ranged
+[2024.10.15-11.45.09:783][295]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.09:783][295]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.09:783][295]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.09:824][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-11.45.22:205][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-11.45.22:210][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.45.22:299][726]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.45.22:299][726]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerF45EA6BB43DFE8ACBC1B479783CEA267.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.45.22:306][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 3.11 sec)
+[2024.10.15-11.45.22:308][726]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.45.22:308][726]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.45.24:241][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.10.15-11.45.24:244][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.45.24:324][956]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.45.24:325][956]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerEA4D8E7D4657C7995740DC823FD7CBDD.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.45.24:332][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 3.20 sec)
+[2024.10.15-11.45.24:334][956]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.45.24:334][956]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.45.28:865][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.10.15-11.45.28:870][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.45.28:961][480]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.45.28:961][480]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerC930866448346AE4CA07D99731DC7520.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.45.28:968][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 3.30 sec)
+[2024.10.15-11.45.28:968][480]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.45.28:968][480]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.45.29:399][529]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.45.29:409][529]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.29:410][529]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.29:410][529]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.29:451][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-11.45.31:803][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.15-11.45.31:808][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.45.31:893][792]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.45.31:894][792]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player6CD71F7845FBD052374B0687FD6EB067.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.45.31:900][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.39 sec)
+[2024.10.15-11.45.31:902][792]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.45.31:902][792]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.45.32:165][823]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.45.32:175][823]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 1  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.32:175][823]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 2  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.32:175][823]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] EXAMPLE CONDUIT to EXAMPLE STATE 3  will never be taken, please connect something to  Can Enter Transition
+[2024.10.15-11.45.32:220][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-11.45.45:917][435]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.45.45:974][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.15-11.45.46:561][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.15-11.45.46:565][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.45.46:649][492]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.45.46:650][492]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player3B65B191465325CF9FB60FAB58D1A273.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.45.46:657][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.48 sec)
+[2024.10.15-11.45.46:659][492]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.45.46:659][492]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.46.24:459][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.15-11.46.24:463][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.46.24:546][895]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.46.24:547][895]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player545CA036464758A091FA92B48920F24D.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.46.24:555][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.57 sec)
+[2024.10.15-11.46.24:557][895]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.46.24:557][895]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.46.25:284][978]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.46.25:334][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.15-11.46.27:707][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.46.27:711][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.46.27:798][217]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.46.27:799][217]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerACF2F71A4A8C08F375E0A6BEA46D616D.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.46.27:807][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 3.67 sec)
+[2024.10.15-11.46.27:809][217]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.46.27:809][217]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.46.28:750][317]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.46.28:800][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.46.35:869][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.46.35:874][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.46.35:958][ 67]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.46.35:959][ 67]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player0E57C5F94193B8E0AEA9BFA9044FF62E.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.46.35:965][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.76 sec)
+[2024.10.15-11.46.35:967][ 67]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.46.35:967][ 67]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.46.36:366][111]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.46.36:416][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-11.47.14:602][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.15-11.47.14:606][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.47.14:690][297]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.47.14:690][297]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player0F29DEB94EFCA2CACAE767B486410257.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.47.14:697][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.85 sec)
+[2024.10.15-11.47.14:699][297]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.47.14:699][297]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.47.14:956][327]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.47.15:012][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.15-11.47.51:586][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-11.47.51:589][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.47.51:675][215]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.47.51:676][215]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerD527CE784D5E72FA554E95B34E9A0D9E.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.47.51:683][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 3.94 sec)
+[2024.10.15-11.47.51:683][215]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.47.51:683][215]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.47.52:599][320]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.47.52:653][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.15-11.47.59:386][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.15-11.47.59:390][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.47.59:480][976]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.47.59:480][976]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player3E63E3DF4D4F28D97BB6538673E90BF9.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.47.59:489][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 4.04 sec)
+[2024.10.15-11.47.59:491][976]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.47.59:491][976]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.47.59:952][ 16]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.48.00:006][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.48.08:759][973]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.48.08:821][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.15-11.48.20:820][363]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.48.20:875][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-11.48.21:298][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.15-11.48.21:302][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.48.21:398][396]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.48.21:399][396]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player84C2B8F24D0CFA4B09817B8D08FB0050.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.48.21:405][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 4.15 sec)
+[2024.10.15-11.48.21:407][396]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.48.21:407][396]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.49.16:318][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.15-11.49.16:322][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.49.16:409][521]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.49.16:409][521]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player01F5A4C0412E05FC942AC78A55B7CB10.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.49.16:417][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.24 sec)
+[2024.10.15-11.49.16:421][521]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.49.16:421][521]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.49.16:690][551]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.49.16:742][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.15-11.49.59:099][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.15-11.49.59:102][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.49.59:189][797]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.49.59:190][797]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player14FB749040F43CD287DBB0A0028C7E16.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.49.59:197][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 4.34 sec)
+[2024.10.15-11.49.59:198][797]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.49.59:199][797]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.49.59:740][859]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.49.59:796][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.15-11.50.08:747][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.15-11.50.08:753][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.50.08:846][678]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.50.08:847][678]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerF9A5B9C848A8609E164F2D99BC8B456A.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.50.08:856][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 4.44 sec)
+[2024.10.15-11.50.08:857][678]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.50.08:857][678]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.50.13:372][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.10.15-11.50.13:376][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.50.13:472][174]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.50.13:473][174]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player6DDC2FCC41EAC0526D623AB095FE3567.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.50.13:480][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 4.54 sec)
+[2024.10.15-11.50.13:481][174]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.50.13:481][174]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.50.13:666][195]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.50.13:719][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-11.50.46:223][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.15-11.50.46:226][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.50.46:322][593]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.50.46:322][593]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerEAED70014BB73B0716B27AA1DF7071F0.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.50.46:331][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 4.65 sec)
+[2024.10.15-11.50.46:333][593]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.50.46:333][593]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.50.46:625][623]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.50.46:635][623]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] Entry node  Downed  is not connected to state
+[2024.10.15-11.50.46:635][623]LogBlueprint: Warning: [AssetLog] C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Content\Assets\Animations\ABPs\ABP_Player.uasset: [Compiler] There was no entry state connection in  Downed
+[2024.10.15-11.50.46:680][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.15-11.50.47:951][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-11.50.47:957][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.50.48:063][745]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.50.48:064][745]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player317C64C94A6AA3C68B852991050989B4.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.50.48:072][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 4.76 sec)
+[2024.10.15-11.50.48:074][745]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.50.48:074][745]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.50.52:928][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-11.50.52:933][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.50.53:020][301]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.50.53:020][301]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player9B07AF9E4A4E2D2851A33890C0F71885.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.50.53:028][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 4.86 sec)
+[2024.10.15-11.50.53:030][301]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.50.53:030][301]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.50.54:007][416]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.50.54:059][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.15-11.51.12:465][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-11.51.12:470][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.51.12:565][537]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.51.12:566][537]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player418463574B60F57075D5FDA7A6B6F677.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.51.12:575][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.96 sec)
+[2024.10.15-11.51.12:575][537]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.51.12:575][537]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.51.18:429][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.10.15-11.51.18:433][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.51.18:519][213]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.51.18:519][213]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player35993B96470F3FA167496AAA7EFA5264.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.51.18:528][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.06 sec)
+[2024.10.15-11.51.18:530][213]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.51.18:530][213]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.51.18:852][249]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.51.18:904][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-11.51.28:258][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.10.15-11.51.28:264][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.51.28:362][322]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.51.28:363][322]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player4882B0C244655DF4C192B68A6BB5C0DC.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.51.28:371][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.17 sec)
+[2024.10.15-11.51.28:373][322]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.51.28:373][322]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.51.34:169][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.51.34:174][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.51.34:274][975]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.51.34:274][975]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player84AAAE8D46033B92E4ED3ABEDED9385B.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.51.34:283][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.28 sec)
+[2024.10.15-11.51.34:285][975]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.51.34:285][975]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.51.34:897][ 35]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.51.34:949][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.15-11.51.36:693][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.10.15-11.51.36:698][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.51.36:821][212]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.51.36:822][212]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerB38151B94D1912855F9AF890BF350D5C.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.51.36:830][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 5.41 sec)
+[2024.10.15-11.51.36:833][212]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.51.36:833][212]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.52.30:547][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.15-11.52.30:551][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.52.30:641][240]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.52.30:641][240]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_Player10AD8A594E2CC5235B7B8ABE848A59FE.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.52.30:651][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.51 sec)
+[2024.10.15-11.52.30:654][240]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.52.30:654][240]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.53.00:542][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.15-11.53.00:547][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.53.00:648][532]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.53.00:649][532]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerA343E36D43A88A3716EF99B275FAB172.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.53.00:657][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 5.62 sec)
+[2024.10.15-11.53.00:660][532]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.53.00:660][532]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.53.11:649][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.15-11.53.11:655][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.15-11.53.11:745][783]LogSavePackage: Moving output files for package: /Game/Assets/Animations/ABPs/ABP_Player
+[2024.10.15-11.53.11:746][783]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/ABP_PlayerECF6FCE2478AD60A975486852E12CF38.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_Player.uasset'
+[2024.10.15-11.53.11:756][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 5.72 sec)
+[2024.10.15-11.53.11:758][783]AssetCheck: New page: Asset Save: ABP_Player
+[2024.10.15-11.53.11:758][783]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/Animations/ABPs/ABP_Player.ABP_Player
+[2024.10.15-11.53.12:143][827]BlueprintLog: New page: Compile ABP_Player
+[2024.10.15-11.53.12:196][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
