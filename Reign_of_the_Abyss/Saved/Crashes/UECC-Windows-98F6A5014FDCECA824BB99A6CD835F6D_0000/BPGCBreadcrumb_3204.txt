@@ -1,0 +1,2 @@
+/Game/Combat/Weapons/Melee/Components/BPC_LightAttacks.Default__BPC_LightAttacks_C
+/Game/Combat/Weapons/Melee/Components/BPC_LightAttacks.BPC_LightAttacks_C

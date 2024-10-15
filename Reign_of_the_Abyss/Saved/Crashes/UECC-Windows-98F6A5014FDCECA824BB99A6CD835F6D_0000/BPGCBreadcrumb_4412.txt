@@ -1,0 +1,2 @@
+/Engine/Transient.World_14:PersistentLevel.BP_ThirdPersonCharacter_C_0.BPC_LightAttacks
+/Game/Combat/Weapons/Melee/Components/BPC_LightAttacks.BPC_LightAttacks_C
