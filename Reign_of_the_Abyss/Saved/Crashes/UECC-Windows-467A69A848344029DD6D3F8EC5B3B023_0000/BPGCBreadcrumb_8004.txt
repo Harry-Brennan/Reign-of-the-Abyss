@@ -1,0 +1,2 @@
+/Game/Enemies/BPs/BP_TestEnemy.BP_TestEnemy_C:BPC_Ranged_Attack_GEN_VARIABLE
+/Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack_C

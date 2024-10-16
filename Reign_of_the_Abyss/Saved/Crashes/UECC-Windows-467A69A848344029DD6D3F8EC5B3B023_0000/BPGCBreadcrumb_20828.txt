@@ -1,0 +1,2 @@
+/Game/Combat/Ranged/Components/BPC_Ranged_Attack.Default__BPC_Ranged_Attack_C
+/Game/Combat/Ranged/Components/BPC_Ranged_Attack.BPC_Ranged_Attack_C
