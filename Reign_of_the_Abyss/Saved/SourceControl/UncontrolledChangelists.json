@@ -22,7 +22,16 @@
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/General_Character_Things/Structs_Tables/Struct_Character_Info.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Interfaces/BPI_Spell.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Split.uasset",
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Homing.uasset"
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Homing.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Enums/Enum_Spell_Names.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_Info.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Piercing.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_Infos.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/Ranged/Structs_Tables/DT_Ranged_Weapons.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Structs_Tables/Characteristics/Struct_Spell_Piercing.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Modes/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
