@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Users/Student/Documents/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_HUD.uasset",
+				"D:/Users/Student/Documents/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_ChrImage.uasset",
+				"D:/Users/Student/Documents/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_CharacterProfile.uasset",
+				"D:/Users/Student/Documents/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_HealthBar.uasset",
+				"D:/Users/Student/Documents/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_Spell_Ability.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Movement/Basic_Movement/BPC_Movement_Manager.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Components/BPC_Ranged_Attack.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/BPs/BP_AOE_Persistence.uasset",
