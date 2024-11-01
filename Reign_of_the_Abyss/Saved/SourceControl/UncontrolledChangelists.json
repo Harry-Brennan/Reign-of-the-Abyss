@@ -35,6 +35,12 @@
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Modes/BP_Main_Menu_GM.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/General/WBP_Clickable_Button.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Pause/WBP_Resume_Countdown.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Game_Over/WBP_Game_Over.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/General/Enums/Enum_Button_Functions.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Game_Win/WBP_Game_Win.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_Boss_Enemy.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_TestEnemy1.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_PayloadHealth.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health.uasset"
 			]
 		}
