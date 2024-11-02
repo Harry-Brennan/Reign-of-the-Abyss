@@ -46,6 +46,9 @@
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Main_Menu_Lvl.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Character_Select/Widgets/WBP_Spell_Ability_Info.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Character_Select/Widgets/WBP_Character_Info.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_Boss_Trigger.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Co-op/Payload/BP_Payload_Stop_Trigger.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Co-op/Payload/BP_Payload_Start_Trigger.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health.uasset"
 			]
 		}
