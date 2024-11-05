@@ -7,7 +7,13 @@
 			"files": [
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/mapLevel.umap",
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/decartion/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Red/Material_Instances/MI_Leaves_A_4.uasset"
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/decartion/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Red/Material_Instances/MI_Leaves_A_4.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Modes/BP_Main_Menu_GM.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/General/WBP_Clickable_Button.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/General/Enums/Enum_Button_Functions.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Character_Select/Widgets/WBP_Character_Select.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Modes/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Co-op/Camera/BP_Camera.uasset"
 			]
 		}
 	]
