@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_ChrImage.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Textures/Portrait_Background.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Textures/Portrait_Forground.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_HUD.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_ChrPortrait.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Modes/BP_ThirdPersonGameMode.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Input/Actions/UI/IA_CinematicToggle.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Input/IMCs/IMC_Default.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/mapLevel.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/mapLevel.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/decartion/Orasot_Bundle/Stylized_Landscape_5_Bioms/Biom_Red/Material_Instances/MI_Leaves_A_4.uasset",
@@ -18,6 +28,7 @@
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Instances/BP_Game_Instance.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Co-op/Payload/BP_Payload.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_Boss_Enemy.uasset",
+<<<<<<< Updated upstream
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_TestEnemy.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_Boss_Health.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health_V2.uasset",
@@ -30,6 +41,9 @@
 				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Textures/Portrait_Forground.uasset",
 				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_HUD.uasset",
 				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/HUD/Widgets/WBP_ChrPortrait.uasset"
+=======
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_TestEnemy.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
