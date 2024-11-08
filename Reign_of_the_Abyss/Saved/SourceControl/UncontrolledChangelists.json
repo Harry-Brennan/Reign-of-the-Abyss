@@ -5,12 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Status_Effects/Components/BPC_StatusEffectHandler.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_TestEnemy.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health_V2.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/Components/BPC_Enemy_Spawning_Director.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/Structs_Tables/Struct_Enemy_Info.uasset",
@@ -44,7 +38,17 @@
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/VFX/Bloodsplosion/BPs/BP_BloodSplosion.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Piercing.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Status_Effects/Components/BPC_StatusEffectHandler.uasset",
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Game_Win/WBP_Game_Win.uasset"
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/Game_Win/WBP_Game_Win.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health_V2.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/Assets/Mixamo/KnockedDown_UE.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/_UE_Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/Assets/Mixamo/KnockedDownLoop_UE.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Status_Effects/Components/BPC_StatusEffectHandler.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_TestEnemy.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health_V2.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
