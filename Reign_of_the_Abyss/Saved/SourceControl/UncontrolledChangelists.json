@@ -5,10 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Modes/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Input/Actions/Movement/IA_Jump.uasset",
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/UI/Screens/General/WBP_Clickable_Button.uasset"
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Structs_Tables/DT_Player_Character_Info.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_MIX.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health_V2.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Status_Effects/Components/BPC_StatusEffectHandler.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/BPs/BP_Spell_Projectile.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_AOE.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Piercing.uasset"
 			]
 		}
 	]
