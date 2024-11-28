@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Structs_Tables/DT_Player_Character_Info.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_MIX.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health_V2.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Status_Effects/Components/BPC_StatusEffectHandler.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/BPs/BP_Spell_Projectile.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_AOE.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Piercing.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Structs_Tables/DT_Spells.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Components/BPC_AttackHandler.uasset",
+				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/VFX/Premade/BenNiagara/N_Shrine2.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Co-op/Camera/BP_Camera.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/mapLevel.umap",
@@ -110,16 +123,7 @@
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Skeletal_Meshes/Emma/Emmas_Non-Rigged_Character__1_.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Skeletal_Meshes/Emma/Emmas_Non-Rigged_Character__1__Skeleton.uasset",
 				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Skeletal_Meshes/Emma/Emmas_Non-Rigged_Character__1__PhysicsAsset.uasset",
-				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/Blend_Spaces/MIX/MIX_BS_Crawling.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Structs_Tables/DT_Player_Character_Info.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/ABPs/ABP_MIX.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Health/Components/BPC_Health_V2.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Status_Effects/Components/BPC_StatusEffectHandler.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/BPs/BP_Spell_Projectile.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_AOE.uasset",
-				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Components/BPC_Piercing.uasset"
+				"C:/Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Assets/Animations/Blend_Spaces/MIX/MIX_BS_Crawling.uasset"
 			]
 		}
 	]
