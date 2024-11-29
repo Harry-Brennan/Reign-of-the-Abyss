@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Modes_Instances/Modes/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/BPs/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Structs_Tables/DT_Player_Character_Info.uasset",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Movement/Footfalls/BPC_Footfalls.uasset",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_Enemy.uasset",
+				"C:/Users/Student/Desktop/Harry Brennan/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Enemies/BPs/BP_Boss_Enemy.uasset",
 				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Weapons/BPs/BP_WeaponParent.uasset",
 				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Player/Structs_Tables/DT_Player_Character_Info.uasset",
 				"E:/UE5/GitHub/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Levels_Maps/Dev_Level.umap",
