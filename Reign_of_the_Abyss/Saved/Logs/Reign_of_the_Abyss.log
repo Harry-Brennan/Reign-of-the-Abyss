@@ -2103,3 +2103,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.30-11.48.10:909][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2024.11.30-11.48.11:758][922]LogSlate: Window 'Message Log' being destroyed
 [2024.11.30-11.48.11:765][922]LogSlate: Window 'Message Log' being destroyed
+[2024.11.30-11.50.08:852][159]LogMetaData: Removing '/Game/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_Audio.Struct_Spell_Audio' ref from Metadata '/Game/Combat/Ranged/Projectiles/Structs_Tables/Characteristics/Struct_Spell_Audio.PackageMetaData'
+[2024.11.30-11.50.08:872][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-11.50.08:900][159]LogSavePackage: Moving output files for package: /Game/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_Audio
+[2024.11.30-11.50.08:900][159]LogSavePackage: Moving '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Saved/Struct_Spell_Audio1FF18FA0498211C75728D18BB52026C9.tmp' to '../../../../../../Users/harry/Documents/Uni/Creative Studio 2/Reign-of-the-Abyss/Reign_of_the_Abyss/Content/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_Audio.uasset'
+[2024.11.30-11.50.08:907][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 313 ms)
+[2024.11.30-11.50.08:920][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.30-11.50.08:931][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.30-11.50.08:938][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.30-11.50.08:948][159]AssetCheck: New page: Asset Save: Struct_Spell_Audio
+[2024.11.30-11.50.08:948][159]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_Audio.Struct_Spell_Audio
+[2024.11.30-11.50.10:773][374]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Ranged/Projectiles/Structs_Tables/Struct_Spell_Audio.Struct_Spell_Audio
+[2024.11.30-11.50.16:486][ 45]LogSlate: Window 'Struct_Spell_Audio' being destroyed
+[2024.11.30-11.50.19:798][436]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Combat/Ranged/Projectiles/Structs_Tables/Characteristics/Struct_Spell_Charge.Struct_Spell_Charge
+[2024.11.30-11.50.21:846][674]LogSlate: Window 'Struct_Spell_Charge' being destroyed
