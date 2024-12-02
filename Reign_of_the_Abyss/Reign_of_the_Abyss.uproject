@@ -23,6 +23,10 @@
 		{
 			"Name": "HairStrands",
 			"Enabled": true
+		},
+		{
+			"Name": "AchievementSystem",
+			"Enabled": true
 		}
 	]
 }
