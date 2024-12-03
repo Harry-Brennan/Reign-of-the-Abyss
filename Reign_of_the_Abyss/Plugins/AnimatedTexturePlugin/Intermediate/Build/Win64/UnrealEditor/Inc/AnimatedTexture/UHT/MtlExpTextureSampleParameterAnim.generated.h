@@ -1,0 +1,66 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "MtlExpTextureSampleParameterAnim.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef ANIMATEDTEXTURE_MtlExpTextureSampleParameterAnim_generated_h
+#error "MtlExpTextureSampleParameterAnim.generated.h already included, missing '#pragma once' in MtlExpTextureSampleParameterAnim.h"
+#endif
+#define ANIMATEDTEXTURE_MtlExpTextureSampleParameterAnim_generated_h
+
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_SPARSE_DATA
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_RPC_WRAPPERS
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_ACCESSORS
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_INCLASS \
+private: \
+	static void StaticRegisterNativesUMtlExpTextureSampleParameterAnim(); \
+	friend struct Z_Construct_UClass_UMtlExpTextureSampleParameterAnim_Statics; \
+public: \
+	DECLARE_CLASS(UMtlExpTextureSampleParameterAnim, UMaterialExpressionTextureSampleParameter, COMPILED_IN_FLAGS(0 | CLASS_Optional), CASTCLASS_None, TEXT("/Script/AnimatedTexture"), NO_API) \
+	DECLARE_SERIALIZER(UMtlExpTextureSampleParameterAnim)
+
+
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMtlExpTextureSampleParameterAnim(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMtlExpTextureSampleParameterAnim) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMtlExpTextureSampleParameterAnim); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMtlExpTextureSampleParameterAnim); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMtlExpTextureSampleParameterAnim(UMtlExpTextureSampleParameterAnim&&); \
+	NO_API UMtlExpTextureSampleParameterAnim(const UMtlExpTextureSampleParameterAnim&); \
+public: \
+	NO_API virtual ~UMtlExpTextureSampleParameterAnim();
+
+
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_17_PROLOG
+#define FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_SPARSE_DATA \
+	FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
+	FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_RPC_WRAPPERS \
+	FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_ACCESSORS \
+	FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_INCLASS \
+	FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h_20_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> ANIMATEDTEXTURE_API UClass* StaticClass<class UMtlExpTextureSampleParameterAnim>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Users_harry_Documents_Uni_Creative_Studio_2_Reign_of_the_Abyss_Reign_of_the_Abyss_Plugins_AnimatedTexturePlugin_Source_AnimatedTexture_Public_MtlExpTextureSampleParameterAnim_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

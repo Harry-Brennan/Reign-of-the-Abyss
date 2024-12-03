@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\animatedtextureeditor\\module.animatedtextureeditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\animatedtextureeditor\\definitions.animatedtextureeditor.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\animatedtextureeditor\\uht\\animatedtextureeditor.init.gen.cpp",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\animatedtextureeditor\\uht\\animatedtexturefactory.gen.cpp",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\source\\animatedtextureeditor\\public\\animatedtexturefactory.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\editorreimporthandler.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\animatedtextureeditor\\uht\\animatedtexturefactory.generated.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\animatedtextureeditor\\uht\\animatedtexturethumbnailrenderer.gen.cpp",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\source\\animatedtextureeditor\\public\\animatedtexturethumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailrenderer.generated.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\animatedtextureeditor\\uht\\animatedtexturethumbnailrenderer.generated.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\source\\animatedtextureeditor\\private\\animatedtextureeditormodule.cpp",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\source\\animatedtextureeditor\\public\\animatedtextureeditormodule.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\source\\animatedtexture\\public\\animatedtexture2d.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\animatedtexture\\uht\\animatedtexture2d.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailmanager.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\thumbnailmanager.generated.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\source\\animatedtextureeditor\\private\\animatedtexturefactory.cpp",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\texturereferenceresolver.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\editorframework\\assetimportdata.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\assetimportdata.generated.h",
+            "c:\\users\\harry\\documents\\uni\\creative studio 2\\reign-of-the-abyss\\reign_of_the_abyss\\plugins\\animatedtextureplugin\\source\\animatedtextureeditor\\private\\animatedtexturethumbnailrenderer.cpp",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\canvastypes.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\canvastypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\public\\canvasitem.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\font.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\fontimportoptions.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\fontimportoptions.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\slatecore\\public\\fonts\\fontproviderinterface.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slatecore\\uht\\fontproviderinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\font.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

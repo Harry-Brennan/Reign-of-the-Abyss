@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AnimatedTextureEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimatedTextureEditor\Module.AnimatedTextureEditor.cpp.obj"
+"C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimatedTextureEditor\Default.rc2.res"
+/OUT:"C:\Users\harry\Documents\Uni\Creative Studio 2\Reign-of-the-Abyss\Reign_of_the_Abyss\Plugins\AnimatedTexturePlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AnimatedTextureEditor\UnrealEditor-AnimatedTextureEditor.lib"

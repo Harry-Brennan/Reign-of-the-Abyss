@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AnimatedTexture.cpp.obj": [
+			"AnimatedTexture.init.gen.cpp.obj",
+			"AnimatedTexture2D.gen.cpp.obj",
+			"MtlExpTextureSampleParameterAnim.gen.cpp.obj",
+			"AnimatedTexture2D.cpp.obj",
+			"AnimatedTextureModule.cpp.obj",
+			"AnimatedTextureResource.cpp.obj",
+			"GIFDecoder.cpp.obj",
+			"utils.cpp.obj",
+			"MtlExpTextureSampleParameterAnim.cpp.obj",
+			"WebpDecoder.cpp.obj"
+		]
+	}
+}
