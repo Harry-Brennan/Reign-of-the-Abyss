@@ -8,3 +8,5 @@ Status effects and a variety of spell characteristics will ensure that both the 
 
 
 This repo showcases the progress made by our team over the approximately 12 week development process with only 2 programmers.
+
+The built game can be found on its itch page: https://hamb04.itch.io/reign-of-the-abyss
