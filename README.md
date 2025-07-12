@@ -7,6 +7,6 @@ With a deep magic system at your disposal with each spell feeling and interactin
 Status effects and a variety of spell characteristics will ensure that both the ranged and melee combat is deep and can be combined by players to create interesting experiences and unique situations, by ensuring that orthogonal design is implemented modularly.
 
 
-This repo showcases the progress made by our team over the approximately 12 week development process with only 2 programmers and 11 artists.
+This repo showcases the progress made by our team over the approximately 12 week development process with only 4 programmers and 11 artists.
 
 The built game can be found on its itch page: https://hamb04.itch.io/reign-of-the-abyss
